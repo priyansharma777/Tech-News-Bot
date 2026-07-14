@@ -3,7 +3,7 @@ name: Automated Daily Tech News
 on:
   schedule:
     # Runs every day at 08:00 UTC
-    - cron: "0 8 * * *"
+    - cron: "30 00 * * *"
   workflow_dispatch: {}   # allows manual runs from the Actions tab
 
 # Required so the workflow can commit and push NEWS.md back to the repo.
