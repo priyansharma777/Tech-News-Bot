@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-07-16
+# 📰 Daily Tech News — 2026-07-17
 
-_Last updated: 2026-07-16 03:46 UTC_
+_Last updated: 2026-07-17 03:46 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)** — 772 pts, 197 comments ([discussion](https://news.ycombinator.com/item?id=48924912))
-2. **[SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)** — 148 pts, 62 comments ([discussion](https://news.ycombinator.com/item?id=48928135))
-3. **[G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)** — 50 pts, 17 comments ([discussion](https://news.ycombinator.com/item?id=48871721))
-4. **[Grok Build is open source](https://github.com/xai-org/grok-build)** — 310 pts, 351 comments ([discussion](https://news.ycombinator.com/item?id=48926590))
-5. **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)** — 116 pts, 48 comments ([discussion](https://news.ycombinator.com/item?id=48927095))
-6. **[Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark)** — 26 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=48929351))
-7. **[Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)** — 382 pts, 217 comments ([discussion](https://news.ycombinator.com/item?id=48915953))
-8. **[The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)** — 10 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=48929587))
-9. **[LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html)** — 62 pts, 24 comments ([discussion](https://news.ycombinator.com/item?id=48927915))
-10. **[Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)** — 43 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=48928313))
+1. **[Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)** — 1277 pts, 801 comments ([discussion](https://news.ycombinator.com/item?id=48935342))
+2. **[Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)** — 581 pts, 125 comments ([discussion](https://news.ycombinator.com/item?id=48936426))
+3. **[LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)** — 181 pts, 67 comments ([discussion](https://news.ycombinator.com/item?id=48939662))
+4. **[Decoy Font](https://www.mixfont.com/experiments/decoy-font)** — 442 pts, 106 comments ([discussion](https://news.ycombinator.com/item?id=48936584))
+5. **[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)** — 166 pts, 180 comments ([discussion](https://news.ycombinator.com/item?id=48939524))
+6. **[M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)** — 42 pts, 12 comments ([discussion](https://news.ycombinator.com/item?id=48942125))
+7. **[An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029)** — 15 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=48862165))
+8. **[The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)** — 52 pts, 31 comments ([discussion](https://news.ycombinator.com/item?id=48942000))
+9. **[NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)** — 266 pts, 134 comments ([discussion](https://news.ycombinator.com/item?id=48936451))
+10. **[The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)** — 73 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=48941104))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[xai-org/grok-build](https://github.com/xai-org/grok-build)** — ⭐ 5117 — `Rust`  
+1. **[xai-org/grok-build](https://github.com/xai-org/grok-build)** — ⭐ 12948 — `Rust`  
    SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-2. **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** — ⭐ 1401 — `Python`  
+2. **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** — ⭐ 6314 — `JavaScript`  
+   Codex Dream Skin
+3. **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** — ⭐ 1715 — `Python`  
    A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
-3. **[littledivy/mimic](https://github.com/littledivy/mimic)** — ⭐ 1034 — `Python`  
+4. **[littledivy/mimic](https://github.com/littledivy/mimic)** — ⭐ 1108 — `Python`  
    Intercept any app, then call it from Python like a library
-4. **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** — ⭐ 834 — `Python`  
-   A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
-5. **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** — ⭐ 812 — `TypeScript`  
-   Local-first, zero-trust agentic IDE for verifiable autonomous software development.
-6. **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** — ⭐ 775 — `Dockerfile`  
-   No description provided.
-7. **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** — ⭐ 712 — `Python`  
-   A Codex skill that finds evidence-backed potential first customers from recent public signals.
-8. **[pengchujin/jzsub](https://github.com/pengchujin/jzsub)** — ⭐ 683 — `Python`  
-   JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。
-9. **[x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)** — ⭐ 666 — `Dockerfile`  
-   No description provided.
-10. **[pixel-point/aval](https://github.com/pixel-point/aval)** — ⭐ 647 — `TypeScript`  
+5. **[pixel-point/aval](https://github.com/pixel-point/aval)** — ⭐ 1065 — `TypeScript`  
    A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.
+6. **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** — ⭐ 941 — `Rust`  
+   No description provided.
+7. **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** — ⭐ 846 — `Dockerfile`  
+   No description provided.
+8. **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** — ⭐ 829 — `TypeScript`  
+   Local-first, zero-trust agentic IDE for verifiable autonomous software development.
+9. **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** — ⭐ 761 — `Python`  
+   A Codex skill that finds evidence-backed potential first customers from recent public signals.
+10. **[x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)** — ⭐ 728 — `Dockerfile`  
+   No description provided.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
