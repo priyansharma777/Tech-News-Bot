@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-07-22
+# 📰 Daily Tech News — 2026-07-23
 
-_Last updated: 2026-07-22 03:56 UTC_
+_Last updated: 2026-07-23 03:53 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)** — 832 pts, 576 comments ([discussion](https://news.ycombinator.com/item?id=48997548))
-2. **[Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)** — 391 pts, 227 comments ([discussion](https://news.ycombinator.com/item?id=48999291))
-3. **[LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)** — 59 pts, 41 comments ([discussion](https://news.ycombinator.com/item?id=49000864))
-4. **[FreeInk: Open ecosystem for e-readers](https://freeink.org/)** — 452 pts, 109 comments ([discussion](https://news.ycombinator.com/item?id=48996318))
-5. **[A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)** — 213 pts, 71 comments ([discussion](https://news.ycombinator.com/item?id=48998362))
-6. **[Advertise in ChatGPT](https://ads.openai.com/)** — 456 pts, 375 comments ([discussion](https://news.ycombinator.com/item?id=48996571))
-7. **[Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)** — 636 pts, 509 comments ([discussion](https://news.ycombinator.com/item?id=48993414))
-8. **[Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)** — 40 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=49000600))
-9. **["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)** — 141 pts, 49 comments ([discussion](https://news.ycombinator.com/item?id=48998404))
-10. **[Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)** — 182 pts, 140 comments ([discussion](https://news.ycombinator.com/item?id=48996652))
+1. **[Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)** — 679 pts, 404 comments ([discussion](https://news.ycombinator.com/item?id=49010345))
+2. **[Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)** — 202 pts, 84 comments ([discussion](https://news.ycombinator.com/item?id=49007247))
+3. **[GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)** — 402 pts, 79 comments ([discussion](https://news.ycombinator.com/item?id=49010167))
+4. **[Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)** — 695 pts, 157 comments ([discussion](https://news.ycombinator.com/item?id=49008211))
+5. **[Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)** — 304 pts, 88 comments ([discussion](https://news.ycombinator.com/item?id=49010648))
+6. **[Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)** — 420 pts, 162 comments ([discussion](https://news.ycombinator.com/item?id=49010129))
+7. **[Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)** — 89 pts, 21 comments ([discussion](https://news.ycombinator.com/item?id=49014007))
+8. **[ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)](https://github.com/exlee/ascdraw)** — 11 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=48984534))
+9. **[Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)** — 11 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=49016099))
+10. **[Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid)** — 89 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=49010782))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** — ⭐ 1717 — `Python`  
+1. **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** — ⭐ 2202 — `Python`  
    🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
-2. **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** — ⭐ 1290 — `JavaScript`  
-   Your clothes, extracted and organized with gpt-image.
-3. **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** — ⭐ 970 — `TypeScript`  
-   yoink any video from your terminal. no shady ads.
-4. **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** — ⭐ 915 — `Go`  
+2. **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** — ⭐ 1000 — `Go`  
    Use LLMs to hide messages inside normal looking conversations
-5. **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** — ⭐ 781 — `Dart`  
-   V- Modal AI: Search anything anywhere SDK Flutter
-6. **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** — ⭐ 739 — `Solidity`  
+3. **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** — ⭐ 920 — `Solidity`  
    An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
-7. **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** — ⭐ 644 — `Swift`  
+4. **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** — ⭐ 766 — `Swift`  
    Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
-8. **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** — ⭐ 596 — `Python`  
+5. **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** — ⭐ 652 — `TypeScript`  
+   Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
+6. **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** — ⭐ 621 — `Python`  
    Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
-9. **[EthanXiang777/circuit-framework](https://github.com/EthanXiang777/circuit-framework)** — ⭐ 487 — `Python`  
-   Circuit Framework — multi-agent LLM trading research system
-10. **[smixs/pohuy](https://github.com/smixs/pohuy)** — ⭐ 470 — `Unknown`  
+7. **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** — ⭐ 546 — `Python`  
+   一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
+8. **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** — ⭐ 546 — `TypeScript`  
+   AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template
+9. **[smixs/pohuy](https://github.com/smixs/pohuy)** — ⭐ 538 — `Unknown`  
    Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+
+10. **[nyblnet/bento](https://github.com/nyblnet/bento)** — ⭐ 525 — `TypeScript`  
+   No description provided.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
