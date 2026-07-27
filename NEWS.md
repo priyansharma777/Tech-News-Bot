@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-07-26
+# 📰 Daily Tech News — 2026-07-27
 
-_Last updated: 2026-07-26 04:05 UTC_
+_Last updated: 2026-07-27 04:12 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[JetZero](https://www.jetzero.aero)** — 72 pts, 50 comments ([discussion](https://news.ycombinator.com/item?id=49054224))
-2. **[Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)** — 42 pts, 7 comments ([discussion](https://news.ycombinator.com/item?id=49054010))
-3. **[An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)** — 24 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49054107))
-4. **[Humans Haven't Stopped Evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)** — 11 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=49054307))
-5. **[Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)** — 634 pts, 154 comments ([discussion](https://news.ycombinator.com/item?id=48976262))
-6. **[Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)** — 41 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=49053375))
-7. **[Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)** — 37 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49053382))
-8. **[Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)** — 70 pts, 38 comments ([discussion](https://news.ycombinator.com/item?id=49052628))
-9. **[Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)** — 62 pts, 40 comments ([discussion](https://news.ycombinator.com/item?id=49052564))
-10. **[Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)** — 26 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=49024980))
+1. **[PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)** — 239 pts, 32 comments ([discussion](https://news.ycombinator.com/item?id=49063754))
+2. **[Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)** — 120 pts, 27 comments ([discussion](https://news.ycombinator.com/item?id=49021270))
+3. **[Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)** — 257 pts, 66 comments ([discussion](https://news.ycombinator.com/item?id=49060856))
+4. **[Jacobian Conjecture for Baby](https://muchmirul.github.io/jacobian-conjecture/)** — 32 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=49011210))
+5. **[Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)** — 61 pts, 25 comments ([discussion](https://news.ycombinator.com/item?id=49063175))
+6. **[French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)** — 220 pts, 127 comments ([discussion](https://news.ycombinator.com/item?id=49060495))
+7. **[US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)** — 366 pts, 229 comments ([discussion](https://news.ycombinator.com/item?id=49063022))
+8. **[We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)** — 113 pts, 23 comments ([discussion](https://news.ycombinator.com/item?id=49062291))
+9. **[Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)** — 137 pts, 38 comments ([discussion](https://news.ycombinator.com/item?id=49060724))
+10. **[Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game)** — 385 pts, 130 comments ([discussion](https://news.ycombinator.com/item?id=49057241))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[andrewyng/openworker](https://github.com/andrewyng/openworker)** — ⭐ 5197 — `Python`  
+1. **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** — ⭐ 1430 — `Python`  
    No description provided.
-2. **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** — ⭐ 1020 — `TypeScript`  
+2. **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** — ⭐ 1104 — `TypeScript`  
    Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
-3. **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** — ⭐ 886 — `Swift`  
-   Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
-4. **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** — ⭐ 885 — `Python`  
-   一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
-5. **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** — ⭐ 868 — `Python`  
-   No description provided.
-6. **[pireel/pireel](https://github.com/pireel/pireel)** — ⭐ 756 — `TypeScript`  
-   Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.
-7. **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** — ⭐ 630 — `JavaScript`  
-   Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
-8. **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** — ⭐ 614 — `Python`  
+3. **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** — ⭐ 861 — `Python`  
    An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.
-9. **[CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge)** — ⭐ 576 — `JavaScript`  
-   A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.
-10. **[zeus-panel/ZEUS-PANEL](https://github.com/zeus-panel/ZEUS-PANEL)** — ⭐ 541 — `JavaScript`  
-   A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.
+4. **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** — ⭐ 710 — `JavaScript`  
+   A Call of Duty-quality FPS in Three.js, built from a single prompt.
+5. **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** — ⭐ 654 — `JavaScript`  
+   Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
+6. **[makecindy/cindy](https://github.com/makecindy/cindy)** — ⭐ 603 — `TypeScript`  
+   Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+7. **[0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** — ⭐ 511 — `TypeScript`  
+   Get notified when big trades happen on Hyperliquid.
+8. **[hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook)** — ⭐ 499 — `TypeScript`  
+   《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
+9. **[vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)** — ⭐ 498 — `TypeScript`  
+   TypeScript-to-Native Compiler
+10. **[berabuddies/redis-poc](https://github.com/berabuddies/redis-poc)** — ⭐ 445 — `Python`  
+   RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
