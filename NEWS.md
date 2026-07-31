@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-07-30
+# 📰 Daily Tech News — 2026-07-31
 
-_Last updated: 2026-07-30 03:40 UTC_
+_Last updated: 2026-07-31 03:59 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)** — 33 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49105642))
-2. **[AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)** — 273 pts, 154 comments ([discussion](https://news.ycombinator.com/item?id=49103285))
-3. **[The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)** — 456 pts, 201 comments ([discussion](https://news.ycombinator.com/item?id=49102774))
-4. **[Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)** — 685 pts, 236 comments ([discussion](https://news.ycombinator.com/item?id=49098510))
-5. **[Superlogical](https://www.superlogical.com/)** — 557 pts, 349 comments ([discussion](https://news.ycombinator.com/item?id=49098965))
-6. **[LLM Honeypot](https://llm2human.pages.dev/)** — 97 pts, 40 comments ([discussion](https://news.ycombinator.com/item?id=49104117))
-7. **[The Productivity Mirage](https://frantic.im/mirage/)** — 79 pts, 19 comments ([discussion](https://news.ycombinator.com/item?id=49104335))
-8. **[Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)** — 308 pts, 118 comments ([discussion](https://news.ycombinator.com/item?id=49099715))
-9. **[The Cold Email](https://zachholman.com/posts/cold-email)** — 116 pts, 44 comments ([discussion](https://news.ycombinator.com/item?id=49103089))
-10. **[Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)** — 313 pts, 183 comments ([discussion](https://news.ycombinator.com/item?id=49089500))
+1. **[A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)** — 36 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=49118663))
+2. **[The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)** — 180 pts, 96 comments ([discussion](https://news.ycombinator.com/item?id=49117099))
+3. **[Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)** — 616 pts, 361 comments ([discussion](https://news.ycombinator.com/item?id=49112744))
+4. **[I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)** — 121 pts, 53 comments ([discussion](https://news.ycombinator.com/item?id=49116721))
+5. **[Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)** — 516 pts, 174 comments ([discussion](https://news.ycombinator.com/item?id=49112232))
+6. **[Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)** — 238 pts, 85 comments ([discussion](https://news.ycombinator.com/item?id=49114639))
+7. **[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)** — 501 pts, 399 comments ([discussion](https://news.ycombinator.com/item?id=49111237))
+8. **[Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/)** — 20 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=49080605))
+9. **[The bond market isn't buying what Fed Chair Warsh is selling](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)** — 19 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49118696))
+10. **[The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/)** — 28 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=49073017))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** — ⭐ 6174 — `Unknown`  
+1. **[MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)** — ⭐ 7563 — `Unknown`  
    Open Frontier Intelligence
-2. **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** — ⭐ 2272 — `JavaScript`  
+2. **[mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)** — ⭐ 2413 — `JavaScript`  
    A Call of Duty-quality FPS in Three.js, built from a single prompt.
-3. **[digimata/quill](https://github.com/digimata/quill)** — ⭐ 1586 — `Swift`  
-   Ultra-minimalist macOS recording + transcription.
-4. **[mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter)** — ⭐ 1048 — `Python`  
-   An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.
-5. **[fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats)** — ⭐ 936 — `Python`  
-   An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.
-6. **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** — ⭐ 884 — `Python`  
+3. **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** — ⭐ 934 — `Python`  
    Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
-7. **[MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)** — ⭐ 866 — `Python`  
-   MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
-8. **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** — ⭐ 556 — `TypeScript`  
-   runs anywhere. uses anything
-9. **[0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** — ⭐ 547 — `JavaScript`  
-   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-10. **[xikhar/persona](https://github.com/xikhar/persona)** — ⭐ 546 — `JavaScript`  
+4. **[xikhar/persona](https://github.com/xikhar/persona)** — ⭐ 679 — `JavaScript`  
    Bringing real-time voice to life.
+5. **[WilonityXYZ/Wilonity](https://github.com/WilonityXYZ/Wilonity)** — ⭐ 651 — `Unknown`  
+   Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread
+6. **[0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved)** — ⭐ 564 — `JavaScript`  
+   Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+7. **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** — ⭐ 562 — `TypeScript`  
+   runs anywhere. uses anything
+8. **[talivia-group/talivia](https://github.com/talivia-group/talivia)** — ⭐ 492 — `TypeScript`  
+   Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative
+9. **[gavamedia/deltafin](https://github.com/gavamedia/deltafin)** — ⭐ 487 — `Python`  
+   Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.
+10. **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** — ⭐ 461 — `JavaScript`  
+   A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
