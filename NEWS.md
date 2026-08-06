@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-08-05
+# 📰 Daily Tech News — 2026-08-06
 
-_Last updated: 2026-08-05 03:42 UTC_
+_Last updated: 2026-08-06 03:48 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)** — 172 pts, 18 comments ([discussion](https://news.ycombinator.com/item?id=49176606))
-2. **[Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/)** — 156 pts, 62 comments ([discussion](https://news.ycombinator.com/item?id=49176038))
-3. **[Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)** — 104 pts, 66 comments ([discussion](https://news.ycombinator.com/item?id=49176830))
-4. **[Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)** — 331 pts, 80 comments ([discussion](https://news.ycombinator.com/item?id=49171268))
-5. **[After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted](https://www.asiae.co.kr/en/article/2026080416131786841)** — 22 pts, 11 comments ([discussion](https://news.ycombinator.com/item?id=49177554))
-6. **[IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)** — 56 pts, 7 comments ([discussion](https://news.ycombinator.com/item?id=49176697))
-7. **[DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html)** — 63 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=49175924))
-8. **[Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)** — 475 pts, 90 comments ([discussion](https://news.ycombinator.com/item?id=49170165))
-9. **[Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone](https://deepgrove.ai/maple-preview)** — 71 pts, 20 comments ([discussion](https://news.ycombinator.com/item?id=49173984))
-10. **[Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)** — 29 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=49176947))
+1. **[Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)** — 80 pts, 67 comments ([discussion](https://news.ycombinator.com/item?id=49191624))
+2. **[Discovery Loop](https://www.discoveryloop.com/)** — 640 pts, 395 comments ([discussion](https://news.ycombinator.com/item?id=49184960))
+3. **[Zed DeltaDB](https://zed.dev/deltadb)** — 332 pts, 174 comments ([discussion](https://news.ycombinator.com/item?id=49187256))
+4. **[Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)** — 529 pts, 618 comments ([discussion](https://news.ycombinator.com/item?id=49184755))
+5. **[The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)** — 183 pts, 81 comments ([discussion](https://news.ycombinator.com/item?id=49189287))
+6. **[Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)** — 203 pts, 120 comments ([discussion](https://news.ycombinator.com/item?id=49187575))
+7. **[LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)** — 48 pts, 45 comments ([discussion](https://news.ycombinator.com/item?id=49191365))
+8. **[Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)** — 243 pts, 59 comments ([discussion](https://news.ycombinator.com/item?id=49186762))
+9. **[Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)** — 124 pts, 21 comments ([discussion](https://news.ycombinator.com/item?id=49189075))
+10. **[Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)** — 162 pts, 162 comments ([discussion](https://news.ycombinator.com/item?id=49187061))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[trycompai/crm](https://github.com/trycompai/crm)** — ⭐ 4887 — `TypeScript`  
+1. **[trycompai/crm](https://github.com/trycompai/crm)** — ⭐ 6437 — `TypeScript`  
    An open-source, agentic-first CRM.
-2. **[bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)** — ⭐ 4568 — `TypeScript`  
-   No description provided.
-3. **[xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)** — ⭐ 3020 — `Unknown`  
-   FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
-4. **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** — ⭐ 2090 — `C`  
-   A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-5. **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** — ⭐ 1832 — `Rust`  
+2. **[firecrawl/anydoc](https://github.com/firecrawl/anydoc)** — ⭐ 5412 — `Rust`  
    Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-6. **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** — ⭐ 1734 — `HTML`  
+3. **[FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)** — ⭐ 2608 — `C`  
+   A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+4. **[imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)** — ⭐ 2092 — `HTML`  
    竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
-7. **[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)** — ⭐ 1395 — `TypeScript`  
+5. **[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)** — ⭐ 1830 — `TypeScript`  
    An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.
-8. **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** — ⭐ 1335 — `Shell`  
-   Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
-9. **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** — ⭐ 1265 — `TypeScript`  
+6. **[thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)** — ⭐ 1635 — `TypeScript`  
    An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
-10. **[WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader)** — ⭐ 900 — `Unknown`  
-   Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.
+7. **[DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)** — ⭐ 1488 — `Shell`  
+   Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
+8. **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — ⭐ 1221 — `Python`  
+   让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
+9. **[Accio-Lab/RealReplicaBench](https://github.com/Accio-Lab/RealReplicaBench)** — ⭐ 1020 — `HTML`  
+   RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services
+10. **[x4gKing/3x-ui-multi](https://github.com/x4gKing/3x-ui-multi)** — ⭐ 813 — `JavaScript`  
+   No description provided.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
