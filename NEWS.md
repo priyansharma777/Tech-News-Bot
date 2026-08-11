@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-08-10
+# 📰 Daily Tech News — 2026-08-11
 
-_Last updated: 2026-08-10 02:40 UTC_
+_Last updated: 2026-08-11 02:34 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)** — 453 pts, 262 comments ([discussion](https://news.ycombinator.com/item?id=49234675))
-2. **[How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)** — 28 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49238050))
-3. **[What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)** — 3 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49238561))
-4. **[Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)** — 566 pts, 257 comments ([discussion](https://news.ycombinator.com/item?id=49231154))
-5. **[New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)** — 81 pts, 45 comments ([discussion](https://news.ycombinator.com/item?id=49235641))
-6. **[Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)** — 179 pts, 674 comments ([discussion](https://news.ycombinator.com/item?id=49233423))
-7. **["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/)** — 30 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=49205793))
-8. **[Picophysics: Single file physics for games on platforms like N64, PSX, DC](https://gitlab.com/Kazade/picophysics)** — 17 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=49182148))
-9. **[Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)** — 194 pts, 147 comments ([discussion](https://news.ycombinator.com/item?id=49232253))
-10. **[Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)** — 51 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=49235697))
+1. **[The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)** — 237 pts, 164 comments ([discussion](https://news.ycombinator.com/item?id=49251411))
+2. **[Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)** — 57 pts, 5 comments ([discussion](https://news.ycombinator.com/item?id=49251702))
+3. **[Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)** — 79 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=49251179))
+4. **[The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)** — 57 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=49184220))
+5. **[Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)** — 190 pts, 82 comments ([discussion](https://news.ycombinator.com/item?id=49246804))
+6. **[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)** — 389 pts, 390 comments ([discussion](https://news.ycombinator.com/item?id=49243880))
+7. **[Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)** — 130 pts, 62 comments ([discussion](https://news.ycombinator.com/item?id=49247477))
+8. **[Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)** — 70 pts, 17 comments ([discussion](https://news.ycombinator.com/item?id=49212449))
+9. **[World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)** — 49 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=49250894))
+10. **[Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)** — 315 pts, 80 comments ([discussion](https://news.ycombinator.com/item?id=49208296))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — ⭐ 2115 — `Python`  
+1. **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** — ⭐ 2291 — `Python`  
    让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
-2. **[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)** — ⭐ 1985 — `Unknown`  
-   No description provided.
-3. **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** — ⭐ 1608 — `Unknown`  
+2. **[Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)** — ⭐ 1607 — `Unknown`  
    非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
-4. **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** — ⭐ 916 — `Python`  
+3. **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** — ⭐ 1333 — `Python`  
    let your agent control your phone
-5. **[mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills)** — ⭐ 798 — `Shell`  
-   Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot
-6. **[0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red)** — ⭐ 710 — `JavaScript`  
-   claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-7. **[xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)** — ⭐ 668 — `C`  
-   Racing to the bottom of CPU performance
-8. **[jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit)** — ⭐ 621 — `Python`  
-   [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion
-9. **[MengTo/kage](https://github.com/MengTo/kage)** — ⭐ 610 — `HTML`  
-   An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
-10. **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** — ⭐ 607 — `Python`  
+4. **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** — ⭐ 1222 — `Python`  
    Create smooth, responsive interactive web animations.
+5. **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** — ⭐ 864 — `TypeScript`  
+   No description provided.
+6. **[MengTo/kage](https://github.com/MengTo/kage)** — ⭐ 781 — `HTML`  
+   An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
+7. **[xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)** — ⭐ 731 — `C`  
+   Racing to the bottom of CPU performance
+8. **[eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)** — ⭐ 651 — `JavaScript`  
+   AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.
+9. **[T8mars/comfyui-minimax-h3-audio-T8](https://github.com/T8mars/comfyui-minimax-h3-audio-T8)** — ⭐ 588 — `Python`  
+   No description provided.
+10. **[sv-number/mcp-server](https://github.com/sv-number/mcp-server)** — ⭐ 552 — `JavaScript`  
+   MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
