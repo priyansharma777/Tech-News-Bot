@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-08-12
+# 📰 Daily Tech News — 2026-08-13
 
-_Last updated: 2026-08-12 03:03 UTC_
+_Last updated: 2026-08-13 03:06 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)** — 145 pts, 47 comments ([discussion](https://news.ycombinator.com/item?id=49265051))
-2. **[Compression is prediction](https://ngrok.com/blog/compression-is-prediction)** — 288 pts, 128 comments ([discussion](https://news.ycombinator.com/item?id=49263497))
-3. **[Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)** — 190 pts, 97 comments ([discussion](https://news.ycombinator.com/item?id=49263340))
-4. **[Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)** — 308 pts, 140 comments ([discussion](https://news.ycombinator.com/item?id=49261128))
-5. **[Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)** — 522 pts, 214 comments ([discussion](https://news.ycombinator.com/item?id=49257876))
-6. **[Retire the Abstractions](https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions)** — 25 pts, 19 comments ([discussion](https://news.ycombinator.com/item?id=49191130))
-7. **[OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)** — 312 pts, 354 comments ([discussion](https://news.ycombinator.com/item?id=49257160))
-8. **[The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)** — 6 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49266921))
-9. **[Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)** — 126 pts, 12 comments ([discussion](https://news.ycombinator.com/item?id=49262811))
-10. **[The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)** — 18 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=49201953))
+1. **[DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)** — 780 pts, 296 comments ([discussion](https://news.ycombinator.com/item?id=49274600))
+2. **[Delta](https://zed.dev/blog/introducing-delta)** — 430 pts, 145 comments ([discussion](https://news.ycombinator.com/item?id=49276574))
+3. **[Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)** — 840 pts, 158 comments ([discussion](https://news.ycombinator.com/item?id=49272832))
+4. **[Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)** — 519 pts, 115 comments ([discussion](https://news.ycombinator.com/item?id=49273478))
+5. **[Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)** — 62 pts, 24 comments ([discussion](https://news.ycombinator.com/item?id=49279928))
+6. **[Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)** — 36 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=49280103))
+7. **[Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)** — 42 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=49269429))
+8. **[Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)** — 41 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=49280047))
+9. **[2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)** — 459 pts, 124 comments ([discussion](https://news.ycombinator.com/item?id=49270953))
+10. **[What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)** — 61 pts, 43 comments ([discussion](https://news.ycombinator.com/item?id=49280061))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** — ⭐ 1519 — `Python`  
+1. **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)** — ⭐ 2622 — `Python`  
+   Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+2. **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** — ⭐ 1651 — `Python`  
    let your agent control your phone
-2. **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** — ⭐ 1488 — `Python`  
+3. **[oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)** — ⭐ 1625 — `Python`  
    Create smooth, responsive interactive web animations.
-3. **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** — ⭐ 1449 — `TypeScript`  
-   No description provided.
-4. **[antirez/h3.c](https://github.com/antirez/h3.c)** — ⭐ 1296 — `C`  
+4. **[antirez/h3.c](https://github.com/antirez/h3.c)** — ⭐ 1620 — `C`  
    MiniMax H3 inference engine for Mac computers
-5. **[eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)** — ⭐ 945 — `JavaScript`  
-   AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.
-6. **[sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music)** — ⭐ 836 — `TypeScript`  
-   A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.
-7. **[MengTo/kage](https://github.com/MengTo/kage)** — ⭐ 822 — `HTML`  
-   An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
-8. **[xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)** — ⭐ 771 — `C`  
-   Racing to the bottom of CPU performance
-9. **[Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)** — ⭐ 691 — `Rust`  
+5. **[SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)** — ⭐ 1555 — `TypeScript`  
+   No description provided.
+6. **[Flaminis/Dalaran](https://github.com/Flaminis/Dalaran)** — ⭐ 889 — `Rust`  
    Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun.
-10. **[sv-number/mcp-server](https://github.com/sv-number/mcp-server)** — ⭐ 618 — `JavaScript`  
-   MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.
+7. **[MengTo/kage](https://github.com/MengTo/kage)** — ⭐ 861 — `HTML`  
+   An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.
+8. **[sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music)** — ⭐ 851 — `TypeScript`  
+   A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.
+9. **[SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch)** — ⭐ 797 — `TypeScript`  
+   600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent
+10. **[gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)** — ⭐ 640 — `Shell`  
+   No description provided.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
