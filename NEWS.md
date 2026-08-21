@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-08-20
+# 📰 Daily Tech News — 2026-08-21
 
-_Last updated: 2026-08-20 01:57 UTC_
+_Last updated: 2026-08-21 02:06 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)** — 641 pts, 342 comments ([discussion](https://news.ycombinator.com/item?id=49364559))
-2. **[Go 1.27](https://go.dev/blog/go1.27)** — 452 pts, 113 comments ([discussion](https://news.ycombinator.com/item?id=49365405))
-3. **[Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)** — 297 pts, 128 comments ([discussion](https://news.ycombinator.com/item?id=49364745))
-4. **[Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)** — 133 pts, 36 comments ([discussion](https://news.ycombinator.com/item?id=49365841))
-5. **[Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)** — 186 pts, 71 comments ([discussion](https://news.ycombinator.com/item?id=49365443))
-6. **[Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)** — 31 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=49362001))
-7. **[A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)** — 762 pts, 117 comments ([discussion](https://news.ycombinator.com/item?id=49360015))
-8. **[Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)** — 45 pts, 26 comments ([discussion](https://news.ycombinator.com/item?id=49367256))
-9. **[Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)** — 278 pts, 226 comments ([discussion](https://news.ycombinator.com/item?id=49362887))
-10. **[DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)** — 73 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49366792))
+1. **[Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)** — 105 pts, 87 comments ([discussion](https://news.ycombinator.com/item?id=49382041))
+2. **[It is a sign of the times that Amazon gets to call this fair use](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)** — 34 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49382200))
+3. **[The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)** — 326 pts, 373 comments ([discussion](https://news.ycombinator.com/item?id=49378957))
+4. **[Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)** — 223 pts, 33 comments ([discussion](https://news.ycombinator.com/item?id=49378243))
+5. **[There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)** — 21 pts, 19 comments ([discussion](https://news.ycombinator.com/item?id=49382152))
+6. **[I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)** — 565 pts, 260 comments ([discussion](https://news.ycombinator.com/item?id=49347543))
+7. **[AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)** — 893 pts, 292 comments ([discussion](https://news.ycombinator.com/item?id=49372583))
+8. **[Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)** — 1001 pts, 229 comments ([discussion](https://news.ycombinator.com/item?id=49379550))
+9. **[HTML Can Do That](https://chrisburnell.com/html-can-do-that/)** — 583 pts, 163 comments ([discussion](https://news.ycombinator.com/item?id=49362689))
+10. **[I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)** — 202 pts, 75 comments ([discussion](https://news.ycombinator.com/item?id=49377853))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** — ⭐ 6315 — `PowerShell`  
-   dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-2. **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** — ⭐ 3641 — `JavaScript`  
-   Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
-3. **[yetone/cumora](https://github.com/yetone/cumora)** — ⭐ 2698 — `TypeScript`  
-   Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
-4. **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** — ⭐ 2137 — `Unknown`  
+1. **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** — ⭐ 3143 — `Unknown`  
    A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
-5. **[dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)** — ⭐ 1267 — `TypeScript`  
-   The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
-6. **[cinderline/northcinder](https://github.com/cinderline/northcinder)** — ⭐ 1193 — `JavaScript`  
+2. **[yetone/cumora](https://github.com/yetone/cumora)** — ⭐ 2779 — `TypeScript`  
+   Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+3. **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** — ⭐ 1672 — `TypeScript`  
+   Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+4. **[cinderline/northcinder](https://github.com/cinderline/northcinder)** — ⭐ 1199 — `JavaScript`  
    Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.
-7. **[alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)** — ⭐ 1080 — `HTML`  
-   DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载
-8. **[ZSvirt/zsvirt](https://github.com/ZSvirt/zsvirt)** — ⭐ 1073 — `Java`  
-   Core IaaS engine and cloud infrastructure foundation of ZSvirt
-9. **[Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)** — ⭐ 1019 — `Unknown`  
+5. **[Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report)** — ⭐ 1038 — `Unknown`  
    DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).
-10. **[zouyuxuan122/Deepseek-Harness-EAC](https://github.com/zouyuxuan122/Deepseek-Harness-EAC)** — ⭐ 960 — `JavaScript`  
-   DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象
+6. **[Leutenegger/watermarks-remover](https://github.com/Leutenegger/watermarks-remover)** — ⭐ 924 — `Python`  
+   Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files
+7. **[vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel)** — ⭐ 810 — `JavaScript`  
+   Install Command：npm install
+8. **[Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth)** — ⭐ 801 — `Python`  
+   Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).
+9. **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** — ⭐ 678 — `Python`  
+   Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+10. **[DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)** — ⭐ 636 — `Swift`  
+   A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
