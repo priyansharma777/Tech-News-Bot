@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-08-29
+# 📰 Daily Tech News — 2026-08-30
 
-_Last updated: 2026-08-29 07:15 UTC_
+_Last updated: 2026-08-30 05:38 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)** — 423 pts, 183 comments ([discussion](https://news.ycombinator.com/item?id=49486172))
-2. **[Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)** — 11 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49487341))
-3. **[Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)** — 231 pts, 69 comments ([discussion](https://news.ycombinator.com/item?id=49485267))
-4. **[GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)** — 742 pts, 369 comments ([discussion](https://news.ycombinator.com/item?id=49479837))
-5. **[TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)** — 74 pts, 28 comments ([discussion](https://news.ycombinator.com/item?id=49486334))
-6. **[Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)** — 619 pts, 152 comments ([discussion](https://news.ycombinator.com/item?id=49478178))
-7. **[U.S. sanctions against the A/I Collective](https://www.inventati.org/)** — 555 pts, 551 comments ([discussion](https://news.ycombinator.com/item?id=49477854))
-8. **[Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)** — 88 pts, 31 comments ([discussion](https://news.ycombinator.com/item?id=49485532))
-9. **[e is a customizable self-aware Emacs-like editor written in Chez Scheme](https://github.com/paveluv/e)** — 4 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49487506))
-10. **[Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)** — 296 pts, 103 comments ([discussion](https://news.ycombinator.com/item?id=49480466))
+1. **[Bug Blindness](https://danluu.com/bug-blind/)** — 157 pts, 64 comments ([discussion](https://news.ycombinator.com/item?id=49494520))
+2. **[Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)** — 51 pts, 19 comments ([discussion](https://news.ycombinator.com/item?id=49495127))
+3. **[Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)** — 245 pts, 141 comments ([discussion](https://news.ycombinator.com/item?id=49492632))
+4. **[RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)** — 81 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=49425252))
+5. **[Creating Teensy ELF Executables for Linux (Or, "Size Is Everything")](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)** — 25 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=49433554))
+6. **[Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)** — 410 pts, 165 comments ([discussion](https://news.ycombinator.com/item?id=49415386))
+7. **[Benjamin Franklin's Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)** — 32 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49494751))
+8. **[Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger)** — 38 pts, 31 comments ([discussion](https://news.ycombinator.com/item?id=49438865))
+9. **[Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)** — 171 pts, 69 comments ([discussion](https://news.ycombinator.com/item?id=49490870))
+10. **[Benchmarking Pocket-Scale Inference](https://artificialanalysis.ai/hardware-inference-stack/mobile-phones)** — 16 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=49469786))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** — ⭐ 3773 — `TeX`  
+1. **[HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex)** — ⭐ 4006 — `TeX`  
    No description provided.
-2. **[b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)** — ⭐ 3414 — `TypeScript`  
-   Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
-3. **[tobi/walgit](https://github.com/tobi/walgit)** — ⭐ 2308 — `Rust`  
-   No description provided.
-4. **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** — ⭐ 2050 — `Python`  
+2. **[sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)** — ⭐ 3217 — `Python`  
    Autonomous research system for measurable, computer-executable research.
-5. **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** — ⭐ 994 — `TypeScript`  
+3. **[wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield)** — ⭐ 1077 — `TypeScript`  
    A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.
-6. **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** — ⭐ 984 — `Astro`  
+4. **[bryllim/workout-guide](https://github.com/bryllim/workout-guide)** — ⭐ 1007 — `Astro`  
    302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
-7. **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** — ⭐ 857 — `Python`  
+5. **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** — ⭐ 1003 — `TypeScript`  
+   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+6. **[Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)** — ⭐ 914 — `Python`  
    WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.
-8. **[ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover)** — ⭐ 830 — `Python`  
-   Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.
-9. **[themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)** — ⭐ 779 — `Swift`  
-   Run Omarchy on MacOS without any setup.
-10. **[amosblomqvist/learn](https://github.com/amosblomqvist/learn)** — ⭐ 675 — `TypeScript`  
+7. **[amosblomqvist/learn](https://github.com/amosblomqvist/learn)** — ⭐ 801 — `TypeScript`  
    My AI learning system.
+8. **[MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** — ⭐ 800 — `CSS`  
+   🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
+9. **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** — ⭐ 713 — `Unknown`  
+   De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
+10. **[yding-git/personal-edge-proxy](https://github.com/yding-git/personal-edge-proxy)** — ⭐ 693 — `Unknown`  
+   A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
