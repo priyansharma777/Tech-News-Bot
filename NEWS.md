@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-09-03
+# 📰 Daily Tech News — 2026-09-04
 
-_Last updated: 2026-09-03 04:50 UTC_
+_Last updated: 2026-09-04 04:53 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)** — 459 pts, 310 comments ([discussion](https://news.ycombinator.com/item?id=49541256))
-2. **[Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)** — 903 pts, 523 comments ([discussion](https://news.ycombinator.com/item?id=49537553))
-3. **[Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)** — 95 pts, 15 comments ([discussion](https://news.ycombinator.com/item?id=49508405))
-4. **[Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)** — 314 pts, 230 comments ([discussion](https://news.ycombinator.com/item?id=49537131))
-5. **[The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0)** — 81 pts, 51 comments ([discussion](https://news.ycombinator.com/item?id=49497996))
-6. **[Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)** — 344 pts, 162 comments ([discussion](https://news.ycombinator.com/item?id=49536375))
-7. **[Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)** — 39 pts, 51 comments ([discussion](https://news.ycombinator.com/item?id=49543530))
-8. **[Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/)** — 140 pts, 29 comments ([discussion](https://news.ycombinator.com/item?id=49508608))
-9. **[Can I opt out of my input or output data being used for training?](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)** — 401 pts, 170 comments ([discussion](https://news.ycombinator.com/item?id=49535284))
-10. **[Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)** — 174 pts, 56 comments ([discussion](https://news.ycombinator.com/item?id=49541458))
+1. **[GPT-6 Astra](https://openai.com/index/gpt-6-astra/)** — 1508 pts, 1278 comments ([discussion](https://news.ycombinator.com/item?id=49554643))
+2. **[.name Termination](https://neil.fraser.name/news/2026/09/03/)** — 1530 pts, 406 comments ([discussion](https://news.ycombinator.com/item?id=49550772))
+3. **[Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)** — 43 pts, 5 comments ([discussion](https://news.ycombinator.com/item?id=49559522))
+4. **[Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)** — 31 pts, 11 comments ([discussion](https://news.ycombinator.com/item?id=49560260))
+5. **[Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)** — 499 pts, 150 comments ([discussion](https://news.ycombinator.com/item?id=49554520))
+6. **[A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)** — 34 pts, 29 comments ([discussion](https://news.ycombinator.com/item?id=49559992))
+7. **[How an MIT research project became the Julia programming language](https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831)** — 46 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49507072))
+8. **[The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)** — 242 pts, 165 comments ([discussion](https://news.ycombinator.com/item?id=49526453))
+9. **[New type of dice guarantees no tie when deciding who goes first](https://www.cbc.ca/lite/story/9.7328614)** — 81 pts, 51 comments ([discussion](https://news.ycombinator.com/item?id=49530807))
+10. **[From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)** — 14 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49559901))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** — ⭐ 2295 — `TypeScript`  
-   ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-2. **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** — ⭐ 1658 — `Python`  
-   De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-3. **[MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)** — ⭐ 1230 — `CSS`  
-   🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
-4. **[cbrock84/headcount](https://github.com/cbrock84/headcount)** — ⭐ 1124 — `Markdown`  
-   An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
-5. **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** — ⭐ 943 — `Python`  
-   Dress AI Sponsor
-6. **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** — ⭐ 694 — `JavaScript`  
-   DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.
-7. **[chrisgreg/boop](https://github.com/chrisgreg/boop)** — ⭐ 688 — `Go`  
-   A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
-8. **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** — ⭐ 644 — `TypeScript`  
-   cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
-9. **[Player-YN/PawWork_ZhuaZhua](https://github.com/Player-YN/PawWork_ZhuaZhua)** — ⭐ 626 — `JavaScript`  
-   Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.
-10. **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** — ⭐ 625 — `Python`  
+1. **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** — ⭐ 1654 — `Python`  
    Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
+2. **[rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)** — ⭐ 1147 — `JavaScript`  
+   DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.
+3. **[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)** — ⭐ 1020 — `Python`  
+   Dress AI Sponsor
+4. **[shadcn-ui/cn](https://github.com/shadcn-ui/cn)** — ⭐ 992 — `TypeScript`  
+   cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
+5. **[2akouwu/reverify](https://github.com/2akouwu/reverify)** — ⭐ 815 — `Python`  
+   Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.
+6. **[jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder)** — ⭐ 676 — `C++`  
+   DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.
+7. **[lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)** — ⭐ 604 — `TypeScript`  
+   Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+8. **[MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)** — ⭐ 435 — `C`  
+   Crowdstrike Falcon 0day Privilege Escalation Vulnerability
+9. **[Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)** — ⭐ 423 — `Shell`  
+   Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.
+10. **[Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer)** — ⭐ 400 — `Python`  
+   DLSS 5 Neural Video & Image Enhancer with Frame Interpolation
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
