@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-09-11
+# 📰 Daily Tech News — 2026-09-12
 
-_Last updated: 2026-09-11 04:57 UTC_
+_Last updated: 2026-09-12 04:50 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)** — 903 pts, 608 comments ([discussion](https://news.ycombinator.com/item?id=49643982))
-2. **[Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)** — 19 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=49653328))
-3. **[Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)** — 395 pts, 285 comments ([discussion](https://news.ycombinator.com/item?id=49645393))
-4. **[OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)** — 187 pts, 118 comments ([discussion](https://news.ycombinator.com/item?id=49649213))
-5. **[Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)** — 382 pts, 161 comments ([discussion](https://news.ycombinator.com/item?id=49645443))
-6. **[The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/)** — 121 pts, 76 comments ([discussion](https://news.ycombinator.com/item?id=49649124))
-7. **[Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images)** — 293 pts, 46 comments ([discussion](https://news.ycombinator.com/item?id=49645437))
-8. **[Google will buy half the electricity from one of Finland's nuclear power plants](https://www.bbc.com/news/articles/c8r6y4me2g6o)** — 148 pts, 109 comments ([discussion](https://news.ycombinator.com/item?id=49652105))
-9. **[Nine coding harnesses vs. your laptop](https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74)** — 16 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49651221))
-10. **[NTSB issues investigative update on B-767 runway excursion accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)** — 80 pts, 125 comments ([discussion](https://news.ycombinator.com/item?id=49650418))
+1. **[Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)** — 104 pts, 57 comments ([discussion](https://news.ycombinator.com/item?id=49668386))
+2. **[A misalignment of AI in mathematics](https://mathandai.org/)** — 772 pts, 763 comments ([discussion](https://news.ycombinator.com/item?id=49662371))
+3. **[Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)** — 79 pts, 38 comments ([discussion](https://news.ycombinator.com/item?id=49668198))
+4. **[I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)** — 394 pts, 203 comments ([discussion](https://news.ycombinator.com/item?id=49662990))
+5. **[A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)** — 199 pts, 45 comments ([discussion](https://news.ycombinator.com/item?id=49626718))
+6. **[OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)** — 499 pts, 293 comments ([discussion](https://news.ycombinator.com/item?id=49666735))
+7. **[Usenet rewind archive search engine](https://www.usenet-rewind.com/)** — 4 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=49668777))
+8. **[Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250)** — 17 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=49624456))
+9. **[GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)** — 228 pts, 143 comments ([discussion](https://news.ycombinator.com/item?id=49663373))
+10. **[Mind-altering drugs played key role in rise of Andean civilization](https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization)** — 127 pts, 85 comments ([discussion](https://news.ycombinator.com/item?id=49662020))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[ashemag/human-atlas](https://github.com/ashemag/human-atlas)** — ⭐ 3116 — `TypeScript`  
-   Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
-2. **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** — ⭐ 1730 — `Lean`  
-   Lean certificates accompanying Navier-Stokes and Euler results
-3. **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** — ⭐ 1498 — `Unknown`  
+1. **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** — ⭐ 1851 — `Unknown`  
    Here is a dlssg for RTX30 Series GPU
-4. **[vinzdg/codenotch](https://github.com/vinzdg/codenotch)** — ⭐ 1399 — `Swift`  
-   A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.
-5. **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** — ⭐ 1350 — `Python`  
+2. **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** — ⭐ 1781 — `Lean`  
+   Lean certificates accompanying Navier-Stokes and Euler results
+3. **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** — ⭐ 1450 — `Python`  
    Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
-6. **[yang0/handraw-style](https://github.com/yang0/handraw-style)** — ⭐ 1083 — `HTML`  
-   手绘风格编号画廊与双语提示词 Skill
-7. **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** — ⭐ 1075 — `Python`  
+4. **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** — ⭐ 1362 — `Python`  
    No description provided.
-8. **[donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)** — ⭐ 933 — `Python`  
-   Use Astra as orchestrator and Luna for subagents in Codex
-9. **[Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)** — ⭐ 917 — `PHP`  
+5. **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** — ⭐ 965 — `TypeScript`  
+   Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
+6. **[Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)** — ⭐ 919 — `PHP`  
    No description provided.
-10. **[iamzulx/crypto-rag](https://github.com/iamzulx/crypto-rag)** — ⭐ 899 — `Python`  
-   Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis
+7. **[achimala/dream-loop](https://github.com/achimala/dream-loop)** — ⭐ 863 — `JavaScript`  
+   Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
+8. **[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)** — ⭐ 753 — `Unknown`  
+   No description provided.
+9. **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** — ⭐ 727 — `Python`  
+   Express yourself in meetings (with memes, of course).
+10. **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** — ⭐ 575 — `Swift`  
+   Wish you could bring the iPhone Duo effect to your MacBook?
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
