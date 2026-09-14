@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-09-13
+# 📰 Daily Tech News — 2026-09-14
 
-_Last updated: 2026-09-13 05:09 UTC_
+_Last updated: 2026-09-14 05:15 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[The Interim Computer Museum](https://icm.museum/)** — 49 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=49679459))
-2. **[Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)** — 385 pts, 89 comments ([discussion](https://news.ycombinator.com/item?id=49674050))
-3. **[Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)** — 174 pts, 97 comments ([discussion](https://news.ycombinator.com/item?id=49676820))
-4. **[The Succession Crisis That Tore England Apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)** — 11 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=49679647))
-5. **[Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)** — 429 pts, 296 comments ([discussion](https://news.ycombinator.com/item?id=49673098))
-6. **[Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/)** — 172 pts, 38 comments ([discussion](https://news.ycombinator.com/item?id=49619848))
-7. **[Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)** — 292 pts, 164 comments ([discussion](https://news.ycombinator.com/item?id=49678683))
-8. **[From Git to Fossil](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html)** — 22 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=49649864))
-9. **[Don't be the out of touch Kung Fu master – John Carmack](https://twitter.com/ID_AA_Carmack/status/2098443262214230095)** — 75 pts, 40 comments ([discussion](https://news.ycombinator.com/item?id=49677577))
-10. **[Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)** — 160 pts, 43 comments ([discussion](https://news.ycombinator.com/item?id=49625056))
+1. **[Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)** — 669 pts, 290 comments ([discussion](https://news.ycombinator.com/item?id=49688695))
+2. **[Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)** — 700 pts, 323 comments ([discussion](https://news.ycombinator.com/item?id=49686445))
+3. **[Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)** — 113 pts, 22 comments ([discussion](https://news.ycombinator.com/item?id=49638510))
+4. **[Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)** — 159 pts, 74 comments ([discussion](https://news.ycombinator.com/item?id=49689048))
+5. **[The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)** — 72 pts, 96 comments ([discussion](https://news.ycombinator.com/item?id=49690554))
+6. **[Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)** — 62 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=49690260))
+7. **[Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)** — 95 pts, 22 comments ([discussion](https://news.ycombinator.com/item?id=49690174))
+8. **[Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)** — 407 pts, 182 comments ([discussion](https://news.ycombinator.com/item?id=49684393))
+9. **[Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/)** — 185 pts, 16 comments ([discussion](https://news.ycombinator.com/item?id=49642645))
+10. **[The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)** — 28 pts, 7 comments ([discussion](https://news.ycombinator.com/item?id=49690678))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)** — ⭐ 2225 — `Unknown`  
-   Here is a dlssg for RTX30 Series GPU
-2. **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** — ⭐ 1834 — `Lean`  
+1. **[openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)** — ⭐ 1864 — `Lean`  
    Lean certificates accompanying Navier-Stokes and Euler results
-3. **[EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio)** — ⭐ 1475 — `Python`  
-   Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.
-4. **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** — ⭐ 1461 — `Python`  
+2. **[Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)** — ⭐ 1626 — `Python`  
    No description provided.
-5. **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** — ⭐ 1104 — `TypeScript`  
+3. **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** — ⭐ 1200 — `TypeScript`  
    Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
-6. **[achimala/dream-loop](https://github.com/achimala/dream-loop)** — ⭐ 927 — `JavaScript`  
-   Agent skill for impressive 3D visuals using Blender + image gen + subagent critic
-7. **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** — ⭐ 793 — `Python`  
+4. **[gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)** — ⭐ 820 — `Python`  
    Express yourself in meetings (with memes, of course).
-8. **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** — ⭐ 706 — `Swift`  
+5. **[sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)** — ⭐ 809 — `Swift`  
    Wish you could bring the iPhone Duo effect to your MacBook?
-9. **[SpaceDudem/text-humanizer](https://github.com/SpaceDudem/text-humanizer)** — ⭐ 703 — `Python`  
+6. **[SpaceDudem/text-humanizer](https://github.com/SpaceDudem/text-humanizer)** — ⭐ 736 — `Python`  
    text-humanizer is an open-source project designed to convert text generated by AI to its "humanized" version. Bypasses the most of AI detectors such as Turnitin or GPTZero
-10. **[Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI)** — ⭐ 679 — `Python`  
+7. **[Colafornia/short-video-generator-AI](https://github.com/Colafornia/short-video-generator-AI)** — ⭐ 723 — `Python`  
    Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.
+8. **[angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)** — ⭐ 687 — `C#`  
+   IDM激活与状态维护工具
+9. **[Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)** — ⭐ 646 — `PHP`  
+   No description provided.
+10. **[rizqinrr/viserys-agent](https://github.com/rizqinrr/viserys-agent)** — ⭐ 629 — `JavaScript`  
+   No description provided.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
