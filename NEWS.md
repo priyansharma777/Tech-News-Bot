@@ -1,41 +1,41 @@
-# 📰 Daily Tech News — 2026-09-17
+# 📰 Daily Tech News — 2026-09-18
 
-_Last updated: 2026-09-17 05:06 UTC_
+_Last updated: 2026-09-18 04:58 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)** — 73 pts, 19 comments ([discussion](https://news.ycombinator.com/item?id=49735930))
-2. **[Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)** — 468 pts, 164 comments ([discussion](https://news.ycombinator.com/item?id=49724881))
-3. **[Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)** — 459 pts, 94 comments ([discussion](https://news.ycombinator.com/item?id=49731285))
-4. **[Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)** — 338 pts, 87 comments ([discussion](https://news.ycombinator.com/item?id=49732270))
-5. **[Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)** — 148 pts, 75 comments ([discussion](https://news.ycombinator.com/item?id=49732513))
-6. **[Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)** — 169 pts, 22 comments ([discussion](https://news.ycombinator.com/item?id=49732931))
-7. **[Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)** — 448 pts, 201 comments ([discussion](https://news.ycombinator.com/item?id=49729000))
-8. **[Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus)** — 60 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49700153))
-9. **[A 32-year-old bug walks into a Telnet server](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)** — 16 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=49721291))
-10. **[The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)** — 155 pts, 61 comments ([discussion](https://news.ycombinator.com/item?id=49719596))
+1. **[Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)** — 124 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=49749656))
+2. **[Waymo in Singapore](https://waymo.com/waymo-in-singapore/)** — 28 pts, 12 comments ([discussion](https://news.ycombinator.com/item?id=49749981))
+3. **[Astra for Law](https://openai.com/index/astra-for-law/)** — 401 pts, 436 comments ([discussion](https://news.ycombinator.com/item?id=49745940))
+4. **[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)** — 321 pts, 106 comments ([discussion](https://news.ycombinator.com/item?id=49746618))
+5. **[Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)** — 365 pts, 185 comments ([discussion](https://news.ycombinator.com/item?id=49746163))
+6. **[Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)** — 525 pts, 141 comments ([discussion](https://news.ycombinator.com/item?id=49743097))
+7. **[Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)** — 111 pts, 25 comments ([discussion](https://news.ycombinator.com/item?id=49747925))
+8. **[Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)** — 14 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49749771))
+9. **[Wax motor](https://en.wikipedia.org/wiki/Wax_motor)** — 308 pts, 57 comments ([discussion](https://news.ycombinator.com/item?id=49726007))
+10. **[Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)** — 21 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49749393))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)** — ⭐ 2005 — `Python`  
-   If you think AI sucks, star the repo.
-2. **[Chuloo/mural](https://github.com/Chuloo/mural)** — ⭐ 1271 — `Kotlin`  
+1. **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — ⭐ 2804 — `Python`  
+   i. am. speed.
+2. **[Chuloo/mural](https://github.com/Chuloo/mural)** — ⭐ 1324 — `Kotlin`  
    The language app you eventually delete. A native iPhone companion for learning through conversation.
-3. **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** — ⭐ 863 — `HTML`  
+3. **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ⭐ 1037 — `TypeScript`  
+   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+4. **[TheoLeeCJ/openjev](https://github.com/TheoLeeCJ/openjev)** — ⭐ 947 — `Python`  
+   Can we run something like Jev on a 3090 at home?
+5. **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** — ⭐ 874 — `HTML`  
    Official Project Page for Recurrent Looped Transformer (RLT)
-4. **[kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)** — ⭐ 827 — `Python`  
-   Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
-5. **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** — ⭐ 786 — `Unknown`  
+6. **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** — ⭐ 839 — `Unknown`  
    GPT-6 Astra for embodied AI and robotics.
-6. **[eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills)** — ⭐ 709 — `HTML`  
-   Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill
-7. **[agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** — ⭐ 691 — `Rust`  
+7. **[agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** — ⭐ 756 — `Rust`  
    Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.
-8. **[rizqinrr/viserys-agent](https://github.com/rizqinrr/viserys-agent)** — ⭐ 660 — `JavaScript`  
+8. **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** — ⭐ 722 — `Python`  
    No description provided.
-9. **[Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah)** — ⭐ 646 — `PHP`  
-   No description provided.
-10. **[nilbuild/page-mascot](https://github.com/nilbuild/page-mascot)** — ⭐ 644 — `Python`  
+9. **[youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master)** — ⭐ 697 — `Unknown`  
+   大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。
+10. **[nilbuild/page-mascot](https://github.com/nilbuild/page-mascot)** — ⭐ 690 — `Python`  
    A mascot that watches the cursor and blinks when you poke it
 
 ---
