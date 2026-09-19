@@ -1,41 +1,41 @@
-# 📰 Daily Tech News — 2026-09-18
+# 📰 Daily Tech News — 2026-09-19
 
-_Last updated: 2026-09-18 04:58 UTC_
+_Last updated: 2026-09-19 04:51 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)** — 124 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=49749656))
-2. **[Waymo in Singapore](https://waymo.com/waymo-in-singapore/)** — 28 pts, 12 comments ([discussion](https://news.ycombinator.com/item?id=49749981))
-3. **[Astra for Law](https://openai.com/index/astra-for-law/)** — 401 pts, 436 comments ([discussion](https://news.ycombinator.com/item?id=49745940))
-4. **[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)** — 321 pts, 106 comments ([discussion](https://news.ycombinator.com/item?id=49746618))
-5. **[Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)** — 365 pts, 185 comments ([discussion](https://news.ycombinator.com/item?id=49746163))
-6. **[Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)** — 525 pts, 141 comments ([discussion](https://news.ycombinator.com/item?id=49743097))
-7. **[Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)** — 111 pts, 25 comments ([discussion](https://news.ycombinator.com/item?id=49747925))
-8. **[Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)** — 14 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49749771))
-9. **[Wax motor](https://en.wikipedia.org/wiki/Wax_motor)** — 308 pts, 57 comments ([discussion](https://news.ycombinator.com/item?id=49726007))
-10. **[Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)** — 21 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49749393))
+1. **[Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)** — 678 pts, 327 comments ([discussion](https://news.ycombinator.com/item?id=49758736))
+2. **[San Francisco Onion Futures Company](https://onionfutures.com/)** — 18 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=49763296))
+3. **[Science Is Open Software](https://jepedersen.dk/blog/202505_research/)** — 40 pts, 15 comments ([discussion](https://news.ycombinator.com/item?id=49762687))
+4. **[SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)** — 27 pts, 7 comments ([discussion](https://news.ycombinator.com/item?id=49762744))
+5. **[Cloudflare Quick Tunnels](https://try.cloudflare.com/)** — 634 pts, 264 comments ([discussion](https://news.ycombinator.com/item?id=49754785))
+6. **[Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)** — 279 pts, 58 comments ([discussion](https://news.ycombinator.com/item?id=49758580))
+7. **[How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)** — 84 pts, 68 comments ([discussion](https://news.ycombinator.com/item?id=49761432))
+8. **[How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)** — 439 pts, 298 comments ([discussion](https://news.ycombinator.com/item?id=49747070))
+9. **[Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)** — 23 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=49734131))
+10. **[Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes)** — 128 pts, 75 comments ([discussion](https://news.ycombinator.com/item?id=49758419))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — ⭐ 2804 — `Python`  
+1. **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — ⭐ 5911 — `Python`  
    i. am. speed.
-2. **[Chuloo/mural](https://github.com/Chuloo/mural)** — ⭐ 1324 — `Kotlin`  
-   The language app you eventually delete. A native iPhone companion for learning through conversation.
-3. **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ⭐ 1037 — `TypeScript`  
+2. **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ⭐ 3467 — `TypeScript`  
    Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
-4. **[TheoLeeCJ/openjev](https://github.com/TheoLeeCJ/openjev)** — ⭐ 947 — `Python`  
-   Can we run something like Jev on a 3090 at home?
-5. **[yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)** — ⭐ 874 — `HTML`  
-   Official Project Page for Recurrent Looped Transformer (RLT)
-6. **[zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)** — ⭐ 839 — `Unknown`  
-   GPT-6 Astra for embodied AI and robotics.
-7. **[agentverse-os/AgentVerse-OS](https://github.com/agentverse-os/AgentVerse-OS)** — ⭐ 756 — `Rust`  
-   Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.
-8. **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** — ⭐ 722 — `Python`  
+3. **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** — ⭐ 1644 — `Python`  
+   Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+4. **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** — ⭐ 1151 — `Python`  
+   Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
+5. **[jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)** — ⭐ 924 — `TypeScript`  
+   One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+6. **[vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike)** — ⭐ 905 — `Python`  
    No description provided.
-9. **[youngyangyang04/llm-master](https://github.com/youngyangyang04/llm-master)** — ⭐ 697 — `Unknown`  
-   大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。
-10. **[nilbuild/page-mascot](https://github.com/nilbuild/page-mascot)** — ⭐ 690 — `Python`  
+7. **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** — ⭐ 900 — `Swift`  
+   The Photoshop alternative for Mac
+8. **[zhengkid/Dream-RSI](https://github.com/zhengkid/Dream-RSI)** — ⭐ 785 — `Unknown`  
+   The offical repo for "Dream-RSI: Recursive Self-Improvement through Evolving Worlds"
+9. **[korcarc/text-humanizer](https://github.com/korcarc/text-humanizer)** — ⭐ 725 — `Python`  
+   text-humanizer is an open-source project designed to convert text generated by AI to its "humanized" version. Bypasses the most of AI detectors such as Turnitin or GPTZero
+10. **[nilbuild/page-mascot](https://github.com/nilbuild/page-mascot)** — ⭐ 713 — `Python`  
    A mascot that watches the cursor and blinks when you poke it
 
 ---
