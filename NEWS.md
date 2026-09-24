@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-09-23
+# 📰 Daily Tech News — 2026-09-24
 
-_Last updated: 2026-09-23 04:58 UTC_
+_Last updated: 2026-09-24 05:09 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)** — 1344 pts, 652 comments ([discussion](https://news.ycombinator.com/item?id=49805509))
-2. **[Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)** — 1353 pts, 868 comments ([discussion](https://news.ycombinator.com/item?id=49803892))
-3. **[Transit rewards (Waymo pays you to take the train)](https://waymo.com/blog/2026/09/transit-rewards/)** — 44 pts, 27 comments ([discussion](https://news.ycombinator.com/item?id=49811065))
-4. **[Data-Only Attacks Are Easier Than You Think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)** — 10 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=49811429))
-5. **[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)** — 608 pts, 373 comments ([discussion](https://news.ycombinator.com/item?id=49801324))
-6. **['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)** — 502 pts, 350 comments ([discussion](https://news.ycombinator.com/item?id=49805278))
-7. **[US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)** — 92 pts, 81 comments ([discussion](https://news.ycombinator.com/item?id=49810829))
-8. **[ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI)** — 102 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=49781862))
-9. **[Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)** — 241 pts, 154 comments ([discussion](https://news.ycombinator.com/item?id=49808023))
-10. **[What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals)** — 166 pts, 252 comments ([discussion](https://news.ycombinator.com/item?id=49796379))
+1. **[Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)** — 260 pts, 124 comments ([discussion](https://news.ycombinator.com/item?id=49823582))
+2. **[Show HN: How long do I need to work at my salary before I can coast, or retire?](https://github.com/karmanyaahm/budget-tools/tree/main/fire)** — 30 pts, 23 comments ([discussion](https://news.ycombinator.com/item?id=49826059))
+3. **[Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)** — 572 pts, 588 comments ([discussion](https://news.ycombinator.com/item?id=49820134))
+4. **[Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)** — 165 pts, 148 comments ([discussion](https://news.ycombinator.com/item?id=49824686))
+5. **[ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)** — 104 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=49823664))
+6. **[Making portable my unportable transputer C compiler](https://nanochess.org/transputer_c_compiler.html)** — 15 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=49795600))
+7. **[VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/)** — 167 pts, 110 comments ([discussion](https://news.ycombinator.com/item?id=49822555))
+8. **[Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)** — 44 pts, 17 comments ([discussion](https://news.ycombinator.com/item?id=49824864))
+9. **[Meta VR Glasses](https://www.meta.com/vr-glasses/)** — 314 pts, 273 comments ([discussion](https://news.ycombinator.com/item?id=49824268))
+10. **[The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/)** — 96 pts, 12 comments ([discussion](https://news.ycombinator.com/item?id=49796372))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** — ⭐ 17451 — `Python`  
-   No description provided.
-2. **[zai-org/ZCode](https://github.com/zai-org/ZCode)** — ⭐ 6374 — `TypeScript`  
+1. **[NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)** — ⭐ 21064 — `Python`  
+   Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+2. **[zai-org/ZCode](https://github.com/zai-org/ZCode)** — ⭐ 6587 — `TypeScript`  
    Z.ai's coding agent harness. Powerful, intelligent, extensible.
-3. **[tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)** — ⭐ 6364 — `TypeScript`  
-   Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
-4. **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** — ⭐ 5585 — `Python`  
+3. **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** — ⭐ 6033 — `Python`  
    Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
-5. **[jaredpalmer/kev](https://github.com/jaredpalmer/kev)** — ⭐ 4625 — `Python`  
-   tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
-6. **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** — ⭐ 4337 — `Kotlin`  
+4. **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** — ⭐ 5401 — `Kotlin`  
    装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
-7. **[TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev)** — ⭐ 2023 — `Python`  
-   A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.
-8. **[bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)** — ⭐ 1646 — `Python`  
+5. **[unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)** — ⭐ 1768 — `Go`  
+   Async-first agent harness
+6. **[bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)** — ⭐ 1698 — `Python`  
    Local typed decisions, contrastive data curation, and model evaluation.
-9. **[yibie/awesome-jev](https://github.com/yibie/awesome-jev)** — ⭐ 1345 — `Python`  
-   A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
-10. **[mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml)** — ⭐ 1313 — `Python`  
+7. **[mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml)** — ⭐ 1400 — `Python`  
    Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.
+8. **[newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)** — ⭐ 1335 — `Python`  
+   Suitable for Android APK reverse engineering analysis
+9. **[Lumid-Off/AirCard-Windows](https://github.com/Lumid-Off/AirCard-Windows)** — ⭐ 802 — `Rust`  
+   No description provided.
+10. **[heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev)** — ⭐ 781 — `Astro`  
+   A verified, community-maintained catalog of 896 open-source projects built with Jev.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
