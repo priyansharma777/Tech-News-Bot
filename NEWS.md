@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-09-28
+# 📰 Daily Tech News — 2026-09-29
 
-_Last updated: 2026-09-28 05:41 UTC_
+_Last updated: 2026-09-29 05:58 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)** — 360 pts, 159 comments ([discussion](https://news.ycombinator.com/item?id=49872723))
-2. **[Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)** — 38 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=49873241))
-3. **[Ember-1](https://fireworks.ai/blog/ember-1)** — 409 pts, 199 comments ([discussion](https://news.ycombinator.com/item?id=49868830))
-4. **[When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)** — 1010 pts, 545 comments ([discussion](https://news.ycombinator.com/item?id=49870367))
-5. **[Malleable software: Restoring user agency in a world of locked-down apps (2025)](https://www.inkandswitch.com/essay/malleable-software/)** — 28 pts, 8 comments ([discussion](https://news.ycombinator.com/item?id=49869755))
-6. **[There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/)** — 103 pts, 55 comments ([discussion](https://news.ycombinator.com/item?id=49857281))
-7. **[Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)** — 99 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=49870070))
-8. **[The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)** — 118 pts, 24 comments ([discussion](https://news.ycombinator.com/item?id=49844629))
-9. **[Deterministic Concurrency [video]](https://www.youtube.com/watch?v=25x0UuSCKuU)** — 11 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=49851795))
-10. **[Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)** — 195 pts, 93 comments ([discussion](https://news.ycombinator.com/item?id=49868404))
+1. **[Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)** — 48 pts, 5 comments ([discussion](https://news.ycombinator.com/item?id=49880411))
+2. **[Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)** — 501 pts, 244 comments ([discussion](https://news.ycombinator.com/item?id=49880036))
+3. **[Simulating Airband Am Radios](https://bitbashing.io/am-radio.html)** — 15 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=49862602))
+4. **[California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)** — 144 pts, 321 comments ([discussion](https://news.ycombinator.com/item?id=49883539))
+5. **[MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)** — 197 pts, 74 comments ([discussion](https://news.ycombinator.com/item?id=49882781))
+6. **[Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)** — 424 pts, 157 comments ([discussion](https://news.ycombinator.com/item?id=49883844))
+7. **[12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)** — 117 pts, 27 comments ([discussion](https://news.ycombinator.com/item?id=49855059))
+8. **[Tank Body Problem](http://www.jimsitu.com)** — 58 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=49886482))
+9. **[ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)** — 68 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=49884625))
+10. **[Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)** — 26 pts, 18 comments ([discussion](https://news.ycombinator.com/item?id=49885493))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** — ⭐ 1993 — `Python`  
+1. **[Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)** — ⭐ 2331 — `Python`  
    No description provided.
-2. **[tobi/disktree](https://github.com/tobi/disktree)** — ⭐ 1672 — `Rust`  
+2. **[tobi/disktree](https://github.com/tobi/disktree)** — ⭐ 1838 — `Rust`  
    A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
-3. **[mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)** — ⭐ 1324 — `TypeScript`  
+3. **[mexicat/pdoom-video](https://github.com/mexicat/pdoom-video)** — ⭐ 1821 — `TypeScript`  
    Code-rendered music video for "I'm Upping My P(doom)"
-4. **[yetone/magpie](https://github.com/yetone/magpie)** — ⭐ 1321 — `Go`  
+4. **[yetone/magpie](https://github.com/yetone/magpie)** — ⭐ 1714 — `Go`  
    Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-5. **[JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)** — ⭐ 1296 — `JavaScript`  
-   Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
-6. **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** — ⭐ 1017 — `TypeScript`  
-   Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
-7. **[kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node)** — ⭐ 985 — `Go`  
-   Reference client daemon and verification worker for Kryvora Network nodes.
-8. **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** — ⭐ 870 — `TypeScript`  
+5. **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** — ⭐ 1534 — `TypeScript`  
+   一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+6. **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** — ⭐ 1518 — `TypeScript`  
    Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
-9. **[riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo)** — ⭐ 846 — `JavaScript`  
-   claude-opus-5-5-demo
-10. **[852wa/JIZURA](https://github.com/852wa/JIZURA)** — ⭐ 844 — `HTML`  
+7. **[Niko1221/Strata](https://github.com/Niko1221/Strata)** — ⭐ 1192 — `C++`  
+   Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+8. **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** — ⭐ 1054 — `TypeScript`  
+   Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.
+9. **[852wa/JIZURA](https://github.com/852wa/JIZURA)** — ⭐ 1001 — `HTML`  
    歌詞から文字PVを自動で組み立てるブラウザアプリ
+10. **[dgreenheck/tidewater](https://github.com/dgreenheck/tidewater)** — ⭐ 926 — `JavaScript`  
+   Coastal town built with Opus 5.5
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
