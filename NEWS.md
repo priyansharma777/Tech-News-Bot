@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-10-04
+# 📰 Daily Tech News — 2026-10-05
 
-_Last updated: 2026-10-04 06:10 UTC_
+_Last updated: 2026-10-05 06:01 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)** — 324 pts, 61 comments ([discussion](https://news.ycombinator.com/item?id=49949438))
-2. **[Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)** — 53 pts, 24 comments ([discussion](https://news.ycombinator.com/item?id=49950554))
-3. **[So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician)** — 128 pts, 70 comments ([discussion](https://news.ycombinator.com/item?id=49910462))
-4. **[We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)** — 341 pts, 172 comments ([discussion](https://news.ycombinator.com/item?id=49949235))
-5. **[The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)** — 211 pts, 25 comments ([discussion](https://news.ycombinator.com/item?id=49946895))
-6. **[Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)** — 141 pts, 70 comments ([discussion](https://news.ycombinator.com/item?id=49946355))
-7. **[Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)** — 269 pts, 62 comments ([discussion](https://news.ycombinator.com/item?id=49946393))
-8. **[Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)** — 120 pts, 66 comments ([discussion](https://news.ycombinator.com/item?id=49945933))
-9. **[Celebrating the 100th birthday of the kidney donated to him as a teenager](https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/)** — 179 pts, 42 comments ([discussion](https://news.ycombinator.com/item?id=49923873))
-10. **[We're working on a new RuneScape MMO](https://play.runescape.com/4)** — 21 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=49949588))
+1. **[Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)** — 697 pts, 320 comments ([discussion](https://news.ycombinator.com/item?id=49953495))
+2. **[In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)** — 93 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=49957812))
+3. **[Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)** — 163 pts, 117 comments ([discussion](https://news.ycombinator.com/item?id=49960084))
+4. **[A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)** — 40 pts, 11 comments ([discussion](https://news.ycombinator.com/item?id=49959654))
+5. **[Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild)** — 111 pts, 17 comments ([discussion](https://news.ycombinator.com/item?id=49943637))
+6. **[ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://getartcraft.com/apps)** — 77 pts, 77 comments ([discussion](https://news.ycombinator.com/item?id=49958850))
+7. **[Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)** — 163 pts, 95 comments ([discussion](https://news.ycombinator.com/item?id=49959869))
+8. **[The Tao of Backup](http://www.taobackup.com/index.html)** — 91 pts, 19 comments ([discussion](https://news.ycombinator.com/item?id=49932236))
+9. **[A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)** — 153 pts, 56 comments ([discussion](https://news.ycombinator.com/item?id=49956681))
+10. **[Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)** — 484 pts, 302 comments ([discussion](https://news.ycombinator.com/item?id=49957116))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** — ⭐ 5521 — `TypeScript`  
-   一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-2. **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** — ⭐ 2702 — `Python`  
+1. **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** — ⭐ 3339 — `Python`  
    Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
-3. **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** — ⭐ 2683 — `TypeScript`  
+2. **[CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)** — ⭐ 3280 — `TypeScript`  
    Your always-on AI coworkers that move between text, calls, and Slack.
-4. **[feder-cr/dots](https://github.com/feder-cr/dots)** — ⭐ 2579 — `Python`  
+3. **[feder-cr/dots](https://github.com/feder-cr/dots)** — ⭐ 2606 — `Python`  
    Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
-5. **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** — ⭐ 1367 — `HTML`  
-   No description provided.
-6. **[firelex/jeff](https://github.com/firelex/jeff)** — ⭐ 1352 — `Python`  
-   Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.
-7. **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** — ⭐ 1342 — `Python`  
+4. **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** — ⭐ 1426 — `Python`  
    AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
-8. **[edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)** — ⭐ 1149 — `JavaScript`  
-   Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.
-9. **[CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox)** — ⭐ 995 — `C#`  
-   High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.
-10. **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** — ⭐ 938 — `C`  
+5. **[wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)** — ⭐ 1400 — `HTML`  
+   No description provided.
+6. **[facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)** — ⭐ 1260 — `C`  
    Open source SDK to build Muse gadgets
+7. **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** — ⭐ 1163 — `JavaScript`  
+   Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+8. **[nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)** — ⭐ 1124 — `Python`  
+   A Claude Code plugin that helps you learn how to build while AI writes the code.
+9. **[storytold/photocraft](https://github.com/storytold/photocraft)** — ⭐ 1069 — `Rust`  
+   No description provided.
+10. **[CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox)** — ⭐ 1036 — `C#`  
+   High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
