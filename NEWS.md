@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-10-10
+# 📰 Daily Tech News — 2026-10-11
 
-_Last updated: 2026-10-10 06:11 UTC_
+_Last updated: 2026-10-11 06:08 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[REA Reverse – Engineer Anything](https://rea.tools/)** — 263 pts, 84 comments ([discussion](https://news.ycombinator.com/item?id=50028275))
-2. **[Cloudflare acquires Deno](https://deno.com/blog/cloudflare)** — 1151 pts, 588 comments ([discussion](https://news.ycombinator.com/item?id=50019911))
-3. **[Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)** — 49 pts, 18 comments ([discussion](https://news.ycombinator.com/item?id=50029123))
-4. **[Triple-A Minesweeper](https://minesweeper.mikelacher.com/)** — 833 pts, 161 comments ([discussion](https://news.ycombinator.com/item?id=50022292))
-5. **[Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)** — 85 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=49997481))
-6. **[Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)** — 329 pts, 237 comments ([discussion](https://news.ycombinator.com/item?id=50023450))
-7. **[Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)** — 267 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=50024499))
-8. **[Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)** — 52 pts, 21 comments ([discussion](https://news.ycombinator.com/item?id=50021410))
-9. **[Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)** — 54 pts, 5 comments ([discussion](https://news.ycombinator.com/item?id=50027853))
-10. **[Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)** — 131 pts, 71 comments ([discussion](https://news.ycombinator.com/item?id=50019056))
+1. **[WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)** — 215 pts, 92 comments ([discussion](https://news.ycombinator.com/item?id=50038634))
+2. **[Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)** — 204 pts, 44 comments ([discussion](https://news.ycombinator.com/item?id=50037949))
+3. **[2D Vehicles](https://patkerr.co.uk/2d-vehicles/)** — 415 pts, 92 comments ([discussion](https://news.ycombinator.com/item?id=49991852))
+4. **[A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)** — 266 pts, 90 comments ([discussion](https://news.ycombinator.com/item?id=50036864))
+5. **[The Lightbulb Computer](https://lightbulbcomputer.com/)** — 335 pts, 52 comments ([discussion](https://news.ycombinator.com/item?id=50029487))
+6. **[PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)** — 56 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=50038623))
+7. **[AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)** — 15 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=50039630))
+8. **[How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)** — 5 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50017548))
+9. **[Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)** — 168 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=50017247))
+10. **[Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)** — 37 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=50001234))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[openai/math](https://github.com/openai/math)** — ⭐ 13268 — `Lean`  
+1. **[openai/math](https://github.com/openai/math)** — ⭐ 13771 — `Lean`  
    No description provided.
-2. **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** — ⭐ 3007 — `JavaScript`  
-   艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
-3. **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** — ⭐ 2466 — `Go`  
-   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
-4. **[storytold/wordcraft](https://github.com/storytold/wordcraft)** — ⭐ 2118 — `Rust`  
+2. **[storytold/wordcraft](https://github.com/storytold/wordcraft)** — ⭐ 3409 — `Rust`  
    An open-source, clean-room reimplementation of Microsoft Word in pure Rust
-5. **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** — ⭐ 2099 — `Python`  
+3. **[alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** — ⭐ 3269 — `JavaScript`  
+   艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+4. **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** — ⭐ 2991 — `Go`  
+   AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+5. **[zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)** — ⭐ 2689 — `Python`  
    让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
-6. **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** — ⭐ 2025 — `Rust`  
+6. **[nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)** — ⭐ 2354 — `Rust`  
    Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
-7. **[kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)** — ⭐ 1677 — `TypeScript`  
-   No description provided.
-8. **[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)** — ⭐ 1556 — `Python`  
+7. **[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)** — ⭐ 2095 — `Python`  
    Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.
-9. **[storytold/cadcraft](https://github.com/storytold/cadcraft)** — ⭐ 1456 — `Rust`  
+8. **[storytold/cadcraft](https://github.com/storytold/cadcraft)** — ⭐ 1974 — `Rust`  
    CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
-10. **[storytold/gridcraft](https://github.com/storytold/gridcraft)** — ⭐ 1318 — `Rust`  
+9. **[storytold/gridcraft](https://github.com/storytold/gridcraft)** — ⭐ 1967 — `Rust`  
    GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+10. **[noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)** — ⭐ 1681 — `Rust`  
+   Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
