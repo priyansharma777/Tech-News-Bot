@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-10-15
+# 📰 Daily Tech News — 2026-10-16
 
-_Last updated: 2026-10-15 04:58 UTC_
+_Last updated: 2026-10-16 04:48 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)** — 1016 pts, 242 comments ([discussion](https://news.ycombinator.com/item?id=50093568))
-2. **[Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)** — 42 pts, 5 comments ([discussion](https://news.ycombinator.com/item?id=50098702))
-3. **[One in ten people are older than 65. Three in four live under a leader who is](https://hannahritchie.substack.com/p/how-old-are-leaders)** — 51 pts, 22 comments ([discussion](https://news.ycombinator.com/item?id=50098570))
-4. **[OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)** — 426 pts, 176 comments ([discussion](https://news.ycombinator.com/item?id=50094994))
-5. **[Tiny Little Office](https://tinylittleoffice.com/)** — 245 pts, 33 comments ([discussion](https://news.ycombinator.com/item?id=50096142))
-6. **[LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)** — 125 pts, 31 comments ([discussion](https://news.ycombinator.com/item?id=50097369))
-7. **[We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)** — 238 pts, 81 comments ([discussion](https://news.ycombinator.com/item?id=50095353))
-8. **[It took me nine years to hack my Xbox 360](https://kennedn.com/blog/posts/glitching/)** — 23 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50070661))
-9. **[Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)** — 533 pts, 382 comments ([discussion](https://news.ycombinator.com/item?id=50050553))
-10. **[Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/)** — 19 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50077709))
+1. **[Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)** — 695 pts, 374 comments ([discussion](https://news.ycombinator.com/item?id=50107379))
+2. **[Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)** — 77 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=50112739))
+3. **[RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)** — 84 pts, 25 comments ([discussion](https://news.ycombinator.com/item?id=50112330))
+4. **[Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)** — 114 pts, 44 comments ([discussion](https://news.ycombinator.com/item?id=50111852))
+5. **[Neural networks are clean](https://already-clean.goodfire.com/)** — 570 pts, 217 comments ([discussion](https://news.ycombinator.com/item?id=50105647))
+6. **['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)** — 39 pts, 11 comments ([discussion](https://news.ycombinator.com/item?id=50072119))
+7. **[What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)** — 349 pts, 227 comments ([discussion](https://news.ycombinator.com/item?id=50109715))
+8. **[Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)** — 84 pts, 53 comments ([discussion](https://news.ycombinator.com/item?id=50068203))
+9. **[BIPM decides to stop adding leap seconds to UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)** — 116 pts, 54 comments ([discussion](https://news.ycombinator.com/item?id=50105777))
+10. **[Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)** — 551 pts, 217 comments ([discussion](https://news.ycombinator.com/item?id=50103338))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[storytold/craft-launcher](https://github.com/storytold/craft-launcher)** — ⭐ 2697 — `Rust`  
-   The Craft App Launcher
-2. **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** — ⭐ 2365 — `C`  
+1. **[jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)** — ⭐ 3270 — `C`  
    Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
-3. **[liseami/CCBaga](https://github.com/liseami/CCBaga)** — ⭐ 2277 — `Rust`  
-   No description provided.
-4. **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** — ⭐ 2152 — `C`  
+2. **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** — ⭐ 2589 — `C`  
    Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
-5. **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** — ⭐ 1388 — `Python`  
+3. **[liseami/CCBaga](https://github.com/liseami/CCBaga)** — ⭐ 2352 — `Rust`  
+   No description provided.
+4. **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** — ⭐ 2138 — `Python`  
    Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
-6. **[shaongitbd/doory](https://github.com/shaongitbd/doory)** — ⭐ 1216 — `TypeScript`  
+5. **[HeyPuter/everything](https://github.com/HeyPuter/everything)** — ⭐ 1372 — `JavaScript`  
+   We're rebuilding and open-sourcing the world’s software from scratch.
+6. **[shaongitbd/doory](https://github.com/shaongitbd/doory)** — ⭐ 1342 — `TypeScript`  
    Open source canva alternative
-7. **[opengeos/RustGIS](https://github.com/opengeos/RustGIS)** — ⭐ 1090 — `Rust`  
+7. **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** — ⭐ 1244 — `C#`  
+   A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
+8. **[opengeos/RustGIS](https://github.com/opengeos/RustGIS)** — ⭐ 1236 — `Rust`  
    A fast, free and open-source GIS in pure Rust.
-8. **[storytold/figcraft](https://github.com/storytold/figcraft)** — ⭐ 1029 — `Rust`  
-   FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
-9. **[rociiu/talorys](https://github.com/rociiu/talorys)** — ⭐ 1005 — `TypeScript`  
+9. **[rociiu/talorys](https://github.com/rociiu/talorys)** — ⭐ 1183 — `TypeScript`  
    Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.
-10. **[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)** — ⭐ 975 — `Python`  
-   Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.
+10. **[chenglou/handwired](https://github.com/chenglou/handwired)** — ⭐ 1181 — `TypeScript`  
+   Turn your regular JavaScript code into a neural net.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
