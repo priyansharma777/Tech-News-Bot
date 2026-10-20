@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-10-19
+# 📰 Daily Tech News — 2026-10-20
 
-_Last updated: 2026-10-19 05:03 UTC_
+_Last updated: 2026-10-20 05:05 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)** — 294 pts, 158 comments ([discussion](https://news.ycombinator.com/item?id=50145337))
-2. **[William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)** — 111 pts, 24 comments ([discussion](https://news.ycombinator.com/item?id=50146625))
-3. **[Show HN: Strot – Compile an LLM's intent once, run decisions locally forever](https://github.com/strot-ai/Project-STROT)** — 5 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50148396))
-4. **[There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)** — 256 pts, 297 comments ([discussion](https://news.ycombinator.com/item?id=50136150))
-5. **[Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)** — 28 pts, 15 comments ([discussion](https://news.ycombinator.com/item?id=50147492))
-6. **[Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)** — 370 pts, 146 comments ([discussion](https://news.ycombinator.com/item?id=50142573))
-7. **[How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)** — 43 pts, 28 comments ([discussion](https://news.ycombinator.com/item?id=50146624))
-8. **[Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)** — 65 pts, 27 comments ([discussion](https://news.ycombinator.com/item?id=50111537))
-9. **[RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)** — 354 pts, 56 comments ([discussion](https://news.ycombinator.com/item?id=50141076))
-10. **[The DNS Museum](https://dns.museum)** — 31 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50125551))
+1. **[OpenBSD 8.0](https://www.openbsd.org/80.html)** — 97 pts, 28 comments ([discussion](https://news.ycombinator.com/item?id=50160494))
+2. **[WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)** — 162 pts, 26 comments ([discussion](https://news.ycombinator.com/item?id=50159341))
+3. **[MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)** — 420 pts, 181 comments ([discussion](https://news.ycombinator.com/item?id=50154540))
+4. **[U.S. Supreme Court to review 1868 federal ban on home distilling of liquor](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)** — 11 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50161207))
+5. **[Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)** — 32 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=50160877))
+6. **[Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)** — 135 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=50140584))
+7. **[I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)** — 461 pts, 100 comments ([discussion](https://news.ycombinator.com/item?id=50150089))
+8. **[DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)** — 96 pts, 97 comments ([discussion](https://news.ycombinator.com/item?id=50154244))
+9. **[Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)** — 533 pts, 177 comments ([discussion](https://news.ycombinator.com/item?id=50152307))
+10. **[It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)** — 511 pts, 473 comments ([discussion](https://news.ycombinator.com/item?id=50134472))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)** — ⭐ 3048 — `Python`  
-   Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
-2. **[Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack)** — ⭐ 2394 — `Java`  
-   Your TV, minus the ads. Debloat any Android TV or Google TV over Wi-Fi and swap the ad-filled home screen for a clean Apple TV-style launcher. No root, fully reversible.
-3. **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** — ⭐ 2316 — `Go`  
+1. **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** — ⭐ 6459 — `Java`  
+   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+2. **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** — ⭐ 2470 — `Go`  
    Git designed for AI agents.
-4. **[HeyPuter/everything](https://github.com/HeyPuter/everything)** — ⭐ 2239 — `JavaScript`  
-   We're rebuilding and open-sourcing the world’s software from scratch.
-5. **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** — ⭐ 1922 — `C#`  
+3. **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** — ⭐ 2000 — `C#`  
    A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
-6. **[chenglou/handwired](https://github.com/chenglou/handwired)** — ⭐ 1743 — `TypeScript`  
-   Turn your regular JavaScript code into a neural net.
-7. **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** — ⭐ 1473 — `C++`  
-   Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
-8. **[Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui)** — ⭐ 1216 — `TypeScript`  
-   基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。
-9. **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** — ⭐ 1042 — `C`  
+4. **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** — ⭐ 1971 — `C`  
    No description provided.
-10. **[outcrawlai/scout](https://github.com/outcrawlai/scout)** — ⭐ 946 — `TypeScript`  
-   Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.
+5. **[chenglou/handwired](https://github.com/chenglou/handwired)** — ⭐ 1820 — `TypeScript`  
+   Turn your regular JavaScript code into a neural net.
+6. **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** — ⭐ 1621 — `Python`  
+   Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+7. **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** — ⭐ 1613 — `C++`  
+   Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
+8. **[Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui)** — ⭐ 1259 — `TypeScript`  
+   基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。
+9. **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** — ⭐ 1109 — `Python`  
+   中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断
+10. **[aicodeking/leanrea](https://github.com/aicodeking/leanrea)** — ⭐ 1021 — `Python`  
+   One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
