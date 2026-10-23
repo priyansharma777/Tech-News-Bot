@@ -1,41 +1,41 @@
-# 📰 Daily Tech News — 2026-10-22
+# 📰 Daily Tech News — 2026-10-23
 
-_Last updated: 2026-10-22 05:10 UTC_
+_Last updated: 2026-10-23 05:09 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)** — 69 pts, 38 comments ([discussion](https://news.ycombinator.com/item?id=50190455))
-2. **[There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)** — 316 pts, 149 comments ([discussion](https://news.ycombinator.com/item?id=50188948))
-3. **[I can't believe PowerShell is good](https://www.spacebar.news/powershell-is-actually-good/)** — 21 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=50190959))
-4. **[GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)** — 288 pts, 70 comments ([discussion](https://news.ycombinator.com/item?id=50185869))
-5. **[Rust Style Guide](https://google.github.io/styleguide/rustguide.html)** — 257 pts, 138 comments ([discussion](https://news.ycombinator.com/item?id=50186010))
-6. **[Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)** — 383 pts, 225 comments ([discussion](https://news.ycombinator.com/item?id=50188228))
-7. **[Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)** — 468 pts, 158 comments ([discussion](https://news.ycombinator.com/item?id=50181114))
-8. **[Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html)** — 33 pts, 26 comments ([discussion](https://news.ycombinator.com/item?id=50176082))
-9. **[mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)** — 356 pts, 94 comments ([discussion](https://news.ycombinator.com/item?id=50189232))
-10. **[Beyond the &](https://lwn.net/Articles/1096028/)** — 37 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=50166590))
+1. **[Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)** — 264 pts, 135 comments ([discussion](https://news.ycombinator.com/item?id=50202681))
+2. **[LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)** — 221 pts, 121 comments ([discussion](https://news.ycombinator.com/item?id=50202217))
+3. **[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)** — 1076 pts, 383 comments ([discussion](https://news.ycombinator.com/item?id=50195959))
+4. **[Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472)** — 63 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=50173516))
+5. **[The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now)** — 67 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=50162431))
+6. **[Woman charged with computer fraud due to scam CashApp account being in her name](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)** — 599 pts, 599 comments ([discussion](https://news.ycombinator.com/item?id=50194833))
+7. **[OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)** — 343 pts, 182 comments ([discussion](https://news.ycombinator.com/item?id=50198675))
+8. **[Median product "lifespan" has fallen from ~4y down to ~1.5y](https://news.ycombinator.com/item?id=50204125)** — 15 pts, 4 comments ([discussion](https://news.ycombinator.com/item?id=50204125))
+9. **[Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)** — 308 pts, 349 comments ([discussion](https://news.ycombinator.com/item?id=50197313))
+10. **[Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)** — 49 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50202762))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** — ⭐ 20279 — `Java`  
+1. **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** — ⭐ 24918 — `Java`  
    Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-2. **[deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)** — ⭐ 18481 — `Python`  
-   DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-3. **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** — ⭐ 4039 — `C`  
+2. **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** — ⭐ 4585 — `C`  
    No description provided.
-4. **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** — ⭐ 2829 — `Java`  
+3. **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** — ⭐ 3547 — `Java`  
    A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
-5. **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** — ⭐ 2401 — `Kotlin`  
+4. **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** — ⭐ 3324 — `Kotlin`  
    给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
-6. **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** — ⭐ 2049 — `Python`  
-   中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断
-7. **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** — ⭐ 1370 — `Unknown`  
+5. **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** — ⭐ 2326 — `Python`  
+   数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+6. **[tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang)** — ⭐ 1904 — `Assembly`  
+   The 100% Pure x86-64 Assembly Systems Language
+7. **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** — ⭐ 1571 — `Python`  
+   CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
+8. **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** — ⭐ 1500 — `Unknown`  
    REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
-8. **[OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)** — ⭐ 1329 — `Python`  
-   Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.
-9. **[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)** — ⭐ 1312 — `JavaScript`  
+9. **[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)** — ⭐ 1466 — `JavaScript`  
    让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
-10. **[aicodeking/leanrea](https://github.com/aicodeking/leanrea)** — ⭐ 1311 — `Python`  
+10. **[aicodeking/leanrea](https://github.com/aicodeking/leanrea)** — ⭐ 1378 — `Python`  
    One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
 
 ---
