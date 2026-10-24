@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-10-23
+# 📰 Daily Tech News — 2026-10-24
 
-_Last updated: 2026-10-23 05:09 UTC_
+_Last updated: 2026-10-24 04:52 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)** — 264 pts, 135 comments ([discussion](https://news.ycombinator.com/item?id=50202681))
-2. **[LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)** — 221 pts, 121 comments ([discussion](https://news.ycombinator.com/item?id=50202217))
-3. **[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)** — 1076 pts, 383 comments ([discussion](https://news.ycombinator.com/item?id=50195959))
-4. **[Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472)** — 63 pts, 34 comments ([discussion](https://news.ycombinator.com/item?id=50173516))
-5. **[The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now)** — 67 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=50162431))
-6. **[Woman charged with computer fraud due to scam CashApp account being in her name](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)** — 599 pts, 599 comments ([discussion](https://news.ycombinator.com/item?id=50194833))
-7. **[OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)** — 343 pts, 182 comments ([discussion](https://news.ycombinator.com/item?id=50198675))
-8. **[Median product "lifespan" has fallen from ~4y down to ~1.5y](https://news.ycombinator.com/item?id=50204125)** — 15 pts, 4 comments ([discussion](https://news.ycombinator.com/item?id=50204125))
-9. **[Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)** — 308 pts, 349 comments ([discussion](https://news.ycombinator.com/item?id=50197313))
-10. **[Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)** — 49 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50202762))
+1. **[Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)** — 799 pts, 484 comments ([discussion](https://news.ycombinator.com/item?id=50212065))
+2. **[Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)** — 81 pts, 8 comments ([discussion](https://news.ycombinator.com/item?id=50217500))
+3. **[Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)** — 664 pts, 210 comments ([discussion](https://news.ycombinator.com/item?id=50207910))
+4. **[Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)** — 1311 pts, 228 comments ([discussion](https://news.ycombinator.com/item?id=50202285))
+5. **[CVE Tracker](https://cve.0xosprey.com/)** — 135 pts, 55 comments ([discussion](https://news.ycombinator.com/item?id=50215530))
+6. **[Dessa: Conversation Model trained only on speech](https://block.xyz/dessa)** — 306 pts, 114 comments ([discussion](https://news.ycombinator.com/item?id=50213925))
+7. **[Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)** — 70 pts, 18 comments ([discussion](https://news.ycombinator.com/item?id=50172962))
+8. **[Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)** — 792 pts, 526 comments ([discussion](https://news.ycombinator.com/item?id=50211474))
+9. **[The Quake Fan who built the map editor everybody uses](https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses)** — 29 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50193677))
+10. **[The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)** — 268 pts, 75 comments ([discussion](https://news.ycombinator.com/item?id=50169499))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** — ⭐ 24918 — `Java`  
-   Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-2. **[ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)** — ⭐ 4585 — `C`  
-   No description provided.
-3. **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** — ⭐ 3547 — `Java`  
-   A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
-4. **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** — ⭐ 3324 — `Kotlin`  
+1. **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** — ⭐ 4003 — `Java`  
+   A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+2. **[pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)** — ⭐ 3947 — `Kotlin`  
    给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
-5. **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** — ⭐ 2326 — `Python`  
+3. **[xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)** — ⭐ 2888 — `Python`  
    数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
-6. **[tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang)** — ⭐ 1904 — `Assembly`  
-   The 100% Pure x86-64 Assembly Systems Language
-7. **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** — ⭐ 1571 — `Python`  
-   CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
-8. **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** — ⭐ 1500 — `Unknown`  
+4. **[JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)** — ⭐ 1779 — `Unknown`  
    REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
-9. **[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)** — ⭐ 1466 — `JavaScript`  
+5. **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** — ⭐ 1705 — `Python`  
+   CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
+6. **[EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)** — ⭐ 1664 — `C`  
+   Offline FairPlay App Store IPA decryption with independent key derivation
+7. **[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)** — ⭐ 1548 — `JavaScript`  
    让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
-10. **[aicodeking/leanrea](https://github.com/aicodeking/leanrea)** — ⭐ 1378 — `Python`  
-   One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.
+8. **[humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv)** — ⭐ 1404 — `Java`  
+   Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.
+9. **[Ansub/tv-detox](https://github.com/Ansub/tv-detox)** — ⭐ 1394 — `Java`  
+   Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
+10. **[9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp)** — ⭐ 1299 — `Python`  
+   A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
