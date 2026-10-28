@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-10-27
+# 📰 Daily Tech News — 2026-10-28
 
-_Last updated: 2026-10-27 05:21 UTC_
+_Last updated: 2026-10-28 06:00 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)** — 678 pts, 296 comments ([discussion](https://news.ycombinator.com/item?id=50251344))
-2. **[The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)** — 474 pts, 175 comments ([discussion](https://news.ycombinator.com/item?id=50251661))
-3. **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)** — 629 pts, 89 comments ([discussion](https://news.ycombinator.com/item?id=50245138))
-4. **[16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)** — 57 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=50253529))
-5. **[Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)** — 358 pts, 211 comments ([discussion](https://news.ycombinator.com/item?id=50248055))
-6. **[APC says let there be light, with standards to speed up photonics manufacturing](https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950)** — 24 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50234707))
-7. **[Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)** — 217 pts, 146 comments ([discussion](https://news.ycombinator.com/item?id=50248371))
-8. **[Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)** — 105 pts, 33 comments ([discussion](https://news.ycombinator.com/item?id=50252159))
-9. **[CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)** — 416 pts, 94 comments ([discussion](https://news.ycombinator.com/item?id=50245831))
-10. **[A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)** — 90 pts, 23 comments ([discussion](https://news.ycombinator.com/item?id=50204697))
+1. **[Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)** — 157 pts, 74 comments ([discussion](https://news.ycombinator.com/item?id=50268380))
+2. **[Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)** — 818 pts, 490 comments ([discussion](https://news.ycombinator.com/item?id=50261319))
+3. **[Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)** — 156 pts, 24 comments ([discussion](https://news.ycombinator.com/item?id=50234796))
+4. **[Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)** — 893 pts, 279 comments ([discussion](https://news.ycombinator.com/item?id=50261998))
+5. **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)** — 273 pts, 121 comments ([discussion](https://news.ycombinator.com/item?id=50264853))
+6. **[Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)** — 192 pts, 167 comments ([discussion](https://news.ycombinator.com/item?id=50265609))
+7. **[Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)** — 250 pts, 126 comments ([discussion](https://news.ycombinator.com/item?id=50264857))
+8. **[A Love Letter to the Super Dimension Fortress](https://brennan.day/a-love-letter-to-the-super-dimension-fortress/)** — 35 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=50219275))
+9. **[Assembly Nights](https://ratfactor.com/assembly-nights)** — 39 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=50230896))
+10. **[Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)** — 98 pts, 79 comments ([discussion](https://news.ycombinator.com/item?id=50266780))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** — ⭐ 3944 — `C`  
+1. **[JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)** — ⭐ 4325 — `C`  
    GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
-2. **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** — ⭐ 2241 — `Python`  
+2. **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** — ⭐ 3709 — `Python`  
    关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
-3. **[wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)** — ⭐ 2098 — `Swift`  
-   Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.
-4. **[xevrion/hatchzip](https://github.com/xevrion/hatchzip)** — ⭐ 2070 — `Rust`  
-   HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
-5. **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** — ⭐ 1892 — `TypeScript`  
+3. **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** — ⭐ 2745 — `TypeScript`  
    词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
-6. **[ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)** — ⭐ 1842 — `Python`  
-   CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.
-7. **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** — ⭐ 1714 — `C`  
+4. **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** — ⭐ 2698 — `Unknown`  
    No description provided.
-8. **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** — ⭐ 1661 — `Python`  
+5. **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** — ⭐ 2065 — `Python`  
    The agent skills I use every day. Works with Claude Code and Codex.
-9. **[9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp)** — ⭐ 1482 — `Python`  
-   A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.
-10. **[openai/php2shell-checker](https://github.com/openai/php2shell-checker)** — ⭐ 1427 — `JavaScript`  
+6. **[oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)** — ⭐ 1842 — `C`  
    No description provided.
+7. **[DLSS-5-Swaper-New/.github](https://github.com/DLSS-5-Swaper-New/.github)** — ⭐ 1543 — `Unknown`  
+   DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations.
+8. **[morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)** — ⭐ 1333 — `Python`  
+   Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
+9. **[enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing)** — ⭐ 1280 — `HTML`  
+   Create Apple style dimensional drawings of UI components.
+10. **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** — ⭐ 1189 — `Python`  
+   Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
