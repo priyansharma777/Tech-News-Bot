@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-10-30
+# 📰 Daily Tech News — 2026-10-31
 
-_Last updated: 2026-10-30 06:10 UTC_
+_Last updated: 2026-10-31 06:05 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)** — 1045 pts, 627 comments ([discussion](https://news.ycombinator.com/item?id=50296470))
-2. **[We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)** — 1315 pts, 360 comments ([discussion](https://news.ycombinator.com/item?id=50289418))
-3. **[Cuis: The Modern Smalltalk-80](https://cuis.st/)** — 59 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=50255343))
-4. **[Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)** — 62 pts, 4 comments ([discussion](https://news.ycombinator.com/item?id=50270651))
-5. **[I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)** — 59 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=50273104))
-6. **[We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)** — 241 pts, 82 comments ([discussion](https://news.ycombinator.com/item?id=50296486))
-7. **[Herdr has released native app](https://github.com/herdrdev/herdr-app)** — 108 pts, 72 comments ([discussion](https://news.ycombinator.com/item?id=50298436))
-8. **[A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)** — 180 pts, 10 comments ([discussion](https://news.ycombinator.com/item?id=50295450))
-9. **[H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)** — 378 pts, 141 comments ([discussion](https://news.ycombinator.com/item?id=50291054))
-10. **[LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)** — 408 pts, 213 comments ([discussion](https://news.ycombinator.com/item?id=50290177))
+1. **[Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)** — 145 pts, 42 comments ([discussion](https://news.ycombinator.com/item?id=50311686))
+2. **[My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)** — 275 pts, 77 comments ([discussion](https://news.ycombinator.com/item?id=50307190))
+3. **[Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)** — 113 pts, 36 comments ([discussion](https://news.ycombinator.com/item?id=50312756))
+4. **[Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)** — 148 pts, 42 comments ([discussion](https://news.ycombinator.com/item?id=50277379))
+5. **[Northflank Breached](https://status.northflank.com)** — 405 pts, 299 comments ([discussion](https://news.ycombinator.com/item?id=50305025))
+6. **[OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)** — 114 pts, 66 comments ([discussion](https://news.ycombinator.com/item?id=50312922))
+7. **[The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)** — 392 pts, 267 comments ([discussion](https://news.ycombinator.com/item?id=50303172))
+8. **[Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)** — 229 pts, 104 comments ([discussion](https://news.ycombinator.com/item?id=50263837))
+9. **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)** — 227 pts, 118 comments ([discussion](https://news.ycombinator.com/item?id=50306442))
+10. **[The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)** — 123 pts, 51 comments ([discussion](https://news.ycombinator.com/item?id=50309266))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** — ⭐ 4908 — `Unknown`  
+1. **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** — ⭐ 5453 — `Unknown`  
    No description provided.
-2. **[rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)** — ⭐ 4825 — `Python`  
-   关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
-3. **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** — ⭐ 3673 — `Python`  
-   Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
-4. **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** — ⭐ 3429 — `HTML`  
+2. **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** — ⭐ 4144 — `TypeScript`  
    中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-5. **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** — ⭐ 3271 — `TypeScript`  
+3. **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** — ⭐ 3901 — `Python`  
+   Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+4. **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** — ⭐ 3410 — `TypeScript`  
    词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
-6. **[t3dotgg/tstack](https://github.com/t3dotgg/tstack)** — ⭐ 2414 — `Python`  
-   The agent skills I use every day. Works with Claude Code and Codex.
-7. **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** — ⭐ 1505 — `TypeScript`  
+5. **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** — ⭐ 2837 — `Dart`  
+   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+6. **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** — ⭐ 1828 — `C`  
+   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
+7. **[wangzan101/Mika](https://github.com/wangzan101/Mika)** — ⭐ 1751 — `Kotlin`  
+   Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.
+8. **[heydamir/unslop](https://github.com/heydamir/unslop)** — ⭐ 1564 — `JavaScript`  
+   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+9. **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** — ⭐ 1562 — `TypeScript`  
    AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
-8. **[DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research)** — ⭐ 1278 — `Python`  
-   Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
-9. **[Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill)** — ⭐ 1104 — `Python`  
-   Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.
-10. **[aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)** — ⭐ 1046 — `Unknown`  
-   Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.
+10. **[qybaihe/bla](https://github.com/qybaihe/bla)** — ⭐ 1495 — `TypeScript`  
+   🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
