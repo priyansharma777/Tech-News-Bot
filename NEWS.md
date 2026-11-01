@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-10-31
+# 📰 Daily Tech News — 2026-11-01
 
-_Last updated: 2026-10-31 06:05 UTC_
+_Last updated: 2026-11-01 06:34 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)** — 145 pts, 42 comments ([discussion](https://news.ycombinator.com/item?id=50311686))
-2. **[My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)** — 275 pts, 77 comments ([discussion](https://news.ycombinator.com/item?id=50307190))
-3. **[Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)** — 113 pts, 36 comments ([discussion](https://news.ycombinator.com/item?id=50312756))
-4. **[Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)** — 148 pts, 42 comments ([discussion](https://news.ycombinator.com/item?id=50277379))
-5. **[Northflank Breached](https://status.northflank.com)** — 405 pts, 299 comments ([discussion](https://news.ycombinator.com/item?id=50305025))
-6. **[OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)** — 114 pts, 66 comments ([discussion](https://news.ycombinator.com/item?id=50312922))
-7. **[The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)** — 392 pts, 267 comments ([discussion](https://news.ycombinator.com/item?id=50303172))
-8. **[Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)** — 229 pts, 104 comments ([discussion](https://news.ycombinator.com/item?id=50263837))
-9. **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)** — 227 pts, 118 comments ([discussion](https://news.ycombinator.com/item?id=50306442))
-10. **[The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)** — 123 pts, 51 comments ([discussion](https://news.ycombinator.com/item?id=50309266))
+1. **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)** — 1037 pts, 315 comments ([discussion](https://news.ycombinator.com/item?id=50319510))
+2. **[An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)** — 301 pts, 83 comments ([discussion](https://news.ycombinator.com/item?id=50320963))
+3. **[Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)** — 69 pts, 25 comments ([discussion](https://news.ycombinator.com/item?id=50322173))
+4. **[TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)** — 447 pts, 208 comments ([discussion](https://news.ycombinator.com/item?id=50319143))
+5. **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)** — 171 pts, 92 comments ([discussion](https://news.ycombinator.com/item?id=50320995))
+6. **[Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](https://arxiv.org/abs/2409.02292)** — 52 pts, 26 comments ([discussion](https://news.ycombinator.com/item?id=50322022))
+7. **[Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)](http://thales.mit.edu/bush/index.php/4801-2/)** — 13 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=50309279))
+8. **[Altoids Project](https://uvdn7.github.io/altoids-project/)** — 86 pts, 4 comments ([discussion](https://news.ycombinator.com/item?id=50321048))
+9. **[Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020](https://maketecheasier.com/arecibo-zinc-creep-collapse/)** — 81 pts, 17 comments ([discussion](https://news.ycombinator.com/item?id=50311045))
+10. **[It's the memory latency, stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)** — 175 pts, 48 comments ([discussion](https://news.ycombinator.com/item?id=50318720))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[unclebob/ub-mode](https://github.com/unclebob/ub-mode)** — ⭐ 5453 — `Unknown`  
-   No description provided.
-2. **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** — ⭐ 4144 — `TypeScript`  
+1. **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** — ⭐ 4851 — `TypeScript`  
    中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-3. **[interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)** — ⭐ 3901 — `Python`  
-   Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
-4. **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** — ⭐ 3410 — `TypeScript`  
-   词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
-5. **[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)** — ⭐ 2837 — `Dart`  
-   dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
-6. **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** — ⭐ 1828 — `C`  
-   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
-7. **[wangzan101/Mika](https://github.com/wangzan101/Mika)** — ⭐ 1751 — `Kotlin`  
-   Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.
-8. **[heydamir/unslop](https://github.com/heydamir/unslop)** — ⭐ 1564 — `JavaScript`  
+2. **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** — ⭐ 3920 — `TypeScript`  
+   Towards a More Autonomous Agent System
+3. **[heydamir/unslop](https://github.com/heydamir/unslop)** — ⭐ 3791 — `JavaScript`  
    A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-9. **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** — ⭐ 1562 — `TypeScript`  
+4. **[wangzan101/Mika](https://github.com/wangzan101/Mika)** — ⭐ 3027 — `Kotlin`  
+   An on-device AI agent for Android that operates apps and the web to get things done for you.
+5. **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** — ⭐ 2747 — `C`  
+   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.
+6. **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** — ⭐ 1788 — `Go`  
+   1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
+7. **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** — ⭐ 1713 — `JavaScript`  
+   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+8. **[aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic)** — ⭐ 1659 — `Unknown`  
+   Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.
+9. **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** — ⭐ 1600 — `TypeScript`  
    AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
-10. **[qybaihe/bla](https://github.com/qybaihe/bla)** — ⭐ 1495 — `TypeScript`  
-   🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.
+10. **[lexifina/global-law](https://github.com/lexifina/global-law)** — ⭐ 1447 — `HTML`  
+   Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
