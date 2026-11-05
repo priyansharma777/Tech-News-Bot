@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-04
+# 📰 Daily Tech News — 2026-11-05
 
-_Last updated: 2026-11-04 06:49 UTC_
+_Last updated: 2026-11-05 07:08 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)** — 105 pts, 21 comments ([discussion](https://news.ycombinator.com/item?id=50361268))
-2. **[C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)** — 220 pts, 116 comments ([discussion](https://news.ycombinator.com/item?id=50360164))
-3. **[Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)** — 50 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50361154))
-4. **[The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)** — 227 pts, 13 comments ([discussion](https://news.ycombinator.com/item?id=50358702))
-5. **[Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)** — 726 pts, 297 comments ([discussion](https://news.ycombinator.com/item?id=50339288))
-6. **[Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)** — 507 pts, 174 comments ([discussion](https://news.ycombinator.com/item?id=50354358))
-7. **[Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)** — 65 pts, 5 comments ([discussion](https://news.ycombinator.com/item?id=50360573))
-8. **[Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org)** — 274 pts, 57 comments ([discussion](https://news.ycombinator.com/item?id=50346755))
-9. **[Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city)** — 22 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=50358352))
-10. **[Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)** — 438 pts, 183 comments ([discussion](https://news.ycombinator.com/item?id=50336918))
+1. **[Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)** — 917 pts, 278 comments ([discussion](https://news.ycombinator.com/item?id=50371246))
+2. **[Lemmings CSS Animation](https://markblah.github.io/lemmings/)** — 64 pts, 11 comments ([discussion](https://news.ycombinator.com/item?id=50375354))
+3. **[Images 2.6](https://openai.com/index/introducing-images-2-6/)** — 230 pts, 148 comments ([discussion](https://news.ycombinator.com/item?id=50372945))
+4. **[A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)** — 269 pts, 167 comments ([discussion](https://news.ycombinator.com/item?id=50372929))
+5. **[Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)** — 276 pts, 99 comments ([discussion](https://news.ycombinator.com/item?id=50369925))
+6. **[Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** — 480 pts, 135 comments ([discussion](https://news.ycombinator.com/item?id=50366999))
+7. **[Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)** — 10 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50375653))
+8. **[Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)** — 193 pts, 123 comments ([discussion](https://news.ycombinator.com/item?id=50373308))
+9. **[Spreading Liquid with Three.js](https://mofu-dev.com/en/blog/fluid-foundation/)** — 45 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=50341576))
+10. **[Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)** — 226 pts, 119 comments ([discussion](https://news.ycombinator.com/item?id=50370610))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** — ⭐ 17553 — `TypeScript`  
+1. **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** — ⭐ 18913 — `TypeScript`  
    Towards a More Autonomous Agent System
-2. **[storytold/craft-anything](https://github.com/storytold/craft-anything)** — ⭐ 9217 — `Rust`  
+2. **[storytold/craft-anything](https://github.com/storytold/craft-anything)** — ⭐ 13003 — `Rust`  
    Craft Anything: understand how any software works, and craft your own.
-3. **[heydamir/unslop](https://github.com/heydamir/unslop)** — ⭐ 7751 — `JavaScript`  
-   A Claude skill that turns vibecoded, AI-looking UI into a designed interface
-4. **[wangzan101/Mika](https://github.com/wangzan101/Mika)** — ⭐ 6207 — `Kotlin`  
-   An on-device AI agent for Android that operates apps and the web to get things done for you.
-5. **[valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** — ⭐ 4608 — `C`  
-   Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.
-6. **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** — ⭐ 4291 — `JavaScript`  
+3. **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** — ⭐ 4894 — `JavaScript`  
    244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
-7. **[BryceYuuu/RUN](https://github.com/BryceYuuu/RUN)** — ⭐ 3296 — `Python`  
-   RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）
-8. **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** — ⭐ 3162 — `C++`  
-   VERY experimental Nintendo Switch 2 emulator
-9. **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** — ⭐ 2150 — `Go`  
-   1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang
-10. **[Verlintas/NOIR](https://github.com/Verlintas/NOIR)** — ⭐ 1831 — `Kotlin`  
+4. **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** — ⭐ 2859 — `TypeScript`  
+   让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+5. **[Verlintas/NOIR](https://github.com/Verlintas/NOIR)** — ⭐ 2216 — `Kotlin`  
    手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.
+6. **[elvarofficial/teardown](https://github.com/elvarofficial/teardown)** — ⭐ 1973 — `JavaScript`  
+   A Claude Code skill that turns any machine into a 3D simulator you can take apart
+7. **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** — ⭐ 1788 — `TypeScript`  
+   Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
+8. **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** — ⭐ 1692 — `Swift`  
+   Entire MacOS running in your terminal.
+9. **[mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts)** — ⭐ 1585 — `TypeScript`  
+   Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion
+10. **[Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop)** — ⭐ 1515 — `PowerShell`  
+   Install Linux next to Windows without a USB stick
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
