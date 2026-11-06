@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-05
+# 📰 Daily Tech News — 2026-11-06
 
-_Last updated: 2026-11-05 07:08 UTC_
+_Last updated: 2026-11-06 07:08 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)** — 917 pts, 278 comments ([discussion](https://news.ycombinator.com/item?id=50371246))
-2. **[Lemmings CSS Animation](https://markblah.github.io/lemmings/)** — 64 pts, 11 comments ([discussion](https://news.ycombinator.com/item?id=50375354))
-3. **[Images 2.6](https://openai.com/index/introducing-images-2-6/)** — 230 pts, 148 comments ([discussion](https://news.ycombinator.com/item?id=50372945))
-4. **[A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)** — 269 pts, 167 comments ([discussion](https://news.ycombinator.com/item?id=50372929))
-5. **[Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)** — 276 pts, 99 comments ([discussion](https://news.ycombinator.com/item?id=50369925))
-6. **[Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)** — 480 pts, 135 comments ([discussion](https://news.ycombinator.com/item?id=50366999))
-7. **[Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)** — 10 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50375653))
-8. **[Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)** — 193 pts, 123 comments ([discussion](https://news.ycombinator.com/item?id=50373308))
-9. **[Spreading Liquid with Three.js](https://mofu-dev.com/en/blog/fluid-foundation/)** — 45 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=50341576))
-10. **[Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)** — 226 pts, 119 comments ([discussion](https://news.ycombinator.com/item?id=50370610))
+1. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)** — 902 pts, 299 comments ([discussion](https://news.ycombinator.com/item?id=50385272))
+2. **[sshole](https://sshhole.com)** — 2568 pts, 626 comments ([discussion](https://news.ycombinator.com/item?id=50378228))
+3. **[MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)** — 462 pts, 175 comments ([discussion](https://news.ycombinator.com/item?id=50384233))
+4. **[Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)** — 58 pts, 18 comments ([discussion](https://news.ycombinator.com/item?id=50387738))
+5. **[Pwn.college](https://pwn.college/)** — 90 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=50387796))
+6. **[From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)** — 29 pts, 8 comments ([discussion](https://news.ycombinator.com/item?id=50388122))
+7. **[Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)** — 167 pts, 57 comments ([discussion](https://news.ycombinator.com/item?id=50386338))
+8. **[The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)** — 283 pts, 144 comments ([discussion](https://news.ycombinator.com/item?id=50383057))
+9. **[I struggle to believe that AI R&D is ingenious](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)** — 14 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50388513))
+10. **[Window Sweaters](https://github.com/saragordic/window-sweaters)** — 302 pts, 95 comments ([discussion](https://news.ycombinator.com/item?id=50381383))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** — ⭐ 18913 — `TypeScript`  
+1. **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** — ⭐ 19782 — `TypeScript`  
    Towards a More Autonomous Agent System
-2. **[storytold/craft-anything](https://github.com/storytold/craft-anything)** — ⭐ 13003 — `Rust`  
+2. **[storytold/craft-anything](https://github.com/storytold/craft-anything)** — ⭐ 15939 — `Rust`  
    Craft Anything: understand how any software works, and craft your own.
-3. **[patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)** — ⭐ 4894 — `JavaScript`  
-   244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
-4. **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** — ⭐ 2859 — `TypeScript`  
+3. **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** — ⭐ 3393 — `TypeScript`  
    让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-5. **[Verlintas/NOIR](https://github.com/Verlintas/NOIR)** — ⭐ 2216 — `Kotlin`  
+4. **[zortos293/Lichii](https://github.com/zortos293/Lichii)** — ⭐ 2684 — `C++`  
+   VERY experimental Nintendo Switch 2 emulator
+5. **[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** — ⭐ 2613 — `Python`  
+   Google_AI_Pro_2Year_ZeroCost_Auto
+6. **[Verlintas/NOIR](https://github.com/Verlintas/NOIR)** — ⭐ 2607 — `Kotlin`  
    手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.
-6. **[elvarofficial/teardown](https://github.com/elvarofficial/teardown)** — ⭐ 1973 — `JavaScript`  
-   A Claude Code skill that turns any machine into a 3D simulator you can take apart
-7. **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** — ⭐ 1788 — `TypeScript`  
-   Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
-8. **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** — ⭐ 1692 — `Swift`  
+7. **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** — ⭐ 2007 — `Swift`  
    Entire MacOS running in your terminal.
-9. **[mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts)** — ⭐ 1585 — `TypeScript`  
+8. **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** — ⭐ 1886 — `TypeScript`  
+   Agent skill: describe your stack in a sentence, get an architecture diagram with official logos
+9. **[mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts)** — ⭐ 1858 — `TypeScript`  
    Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion
-10. **[Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop)** — ⭐ 1515 — `PowerShell`  
-   Install Linux next to Windows without a USB stick
+10. **[wquguru/cicada](https://github.com/wquguru/cicada)** — ⭐ 1520 — `Swift`  
+   知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
