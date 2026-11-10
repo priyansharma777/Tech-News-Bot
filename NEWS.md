@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-09
+# 📰 Daily Tech News — 2026-11-10
 
-_Last updated: 2026-11-09 06:59 UTC_
+_Last updated: 2026-11-10 07:36 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)** — 379 pts, 101 comments ([discussion](https://news.ycombinator.com/item?id=50418176))
-2. **[Apple capped engineers at a $200 daily AI budget](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1)** — 56 pts, 59 comments ([discussion](https://news.ycombinator.com/item?id=50421426))
-3. **[Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)** — 221 pts, 79 comments ([discussion](https://news.ycombinator.com/item?id=50419215))
-4. **[I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)** — 170 pts, 227 comments ([discussion](https://news.ycombinator.com/item?id=50418975))
-5. **[Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)** — 171 pts, 23 comments ([discussion](https://news.ycombinator.com/item?id=50418182))
-6. **[Declarative Dragging](https://declarative-dragging.github.io/)** — 465 pts, 62 comments ([discussion](https://news.ycombinator.com/item?id=50368481))
-7. **[Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)** — 252 pts, 83 comments ([discussion](https://news.ycombinator.com/item?id=50416053))
-8. **[Outlook.com is rejecting email from domains without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)** — 349 pts, 258 comments ([discussion](https://news.ycombinator.com/item?id=50416158))
-9. **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)** — 188 pts, 635 comments ([discussion](https://news.ycombinator.com/item?id=50417407))
-10. **[Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company)** — 529 pts, 562 comments ([discussion](https://news.ycombinator.com/item?id=50418016))
+1. **[Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)** — 115 pts, 29 comments ([discussion](https://news.ycombinator.com/item?id=50436640))
+2. **[Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)** — 479 pts, 746 comments ([discussion](https://news.ycombinator.com/item?id=50429068))
+3. **[USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)** — 597 pts, 301 comments ([discussion](https://news.ycombinator.com/item?id=50431058))
+4. **[Your TV can see through walls](https://maurycyz.com/projects/fading/)** — 51 pts, 15 comments ([discussion](https://news.ycombinator.com/item?id=50436410))
+5. **[Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)** — 126 pts, 61 comments ([discussion](https://news.ycombinator.com/item?id=50434310))
+6. **[E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)** — 368 pts, 31 comments ([discussion](https://news.ycombinator.com/item?id=50429734))
+7. **[Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)** — 516 pts, 282 comments ([discussion](https://news.ycombinator.com/item?id=50427362))
+8. **[Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)** — 964 pts, 146 comments ([discussion](https://news.ycombinator.com/item?id=50424581))
+9. **[Horible public key tricks](https://maurycyz.com/projects/badcert/)** — 127 pts, 40 comments ([discussion](https://news.ycombinator.com/item?id=50434264))
+10. **[Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)** — 34 pts, 8 comments ([discussion](https://news.ycombinator.com/item?id=50435898))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** — ⭐ 4175 — `TypeScript`  
-   让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-2. **[Minireel/HGhub](https://github.com/Minireel/HGhub)** — ⭐ 4062 — `TypeScript`  
-   YellowFruit third-party client
-3. **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** — ⭐ 3414 — `C++`  
+1. **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** — ⭐ 5506 — `C++`  
    A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
-4. **[worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto)** — ⭐ 3296 — `Python`  
-   Google_AI_Pro_2Year_ZeroCost_Auto
-5. **[govijr/terminal-mac](https://github.com/govijr/terminal-mac)** — ⭐ 2428 — `Swift`  
-   Entire MacOS running in your terminal.
-6. **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** — ⭐ 1888 — `JavaScript`  
+2. **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** — ⭐ 3183 — `Swift`  
+   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.
+3. **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** — ⭐ 2559 — `C`  
    No description provided.
-7. **[sarpstar/cinecode](https://github.com/sarpstar/cinecode)** — ⭐ 1682 — `Python`  
-   Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.
-8. **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** — ⭐ 1557 — `C`  
+4. **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** — ⭐ 2135 — `C#`  
+   Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
+5. **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** — ⭐ 1972 — `JavaScript`  
    No description provided.
-9. **[Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)** — ⭐ 1482 — `HTML`  
-   3D modeling in Python, built for LLMs.
-10. **[livliv-dev/player](https://github.com/livliv-dev/player)** — ⭐ 1359 — `TypeScript`  
+6. **[DIYgod/pinky](https://github.com/DIYgod/pinky)** — ⭐ 1542 — `Go`  
+   Let AI agents use your phone, with you in the loop.
+7. **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** — ⭐ 1528 — `Shell`  
+   Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
+8. **[mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper)** — ⭐ 1507 — `Python`  
+   No description provided.
+9. **[livliv-dev/player](https://github.com/livliv-dev/player)** — ⭐ 1425 — `TypeScript`  
    A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.
+10. **[jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)** — ⭐ 1338 — `Rust`  
+   the ultimate vocal synthesizer - sing, speak, beatbox, and more
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
