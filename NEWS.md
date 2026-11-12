@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-11
+# 📰 Daily Tech News — 2026-11-12
 
-_Last updated: 2026-11-11 06:53 UTC_
+_Last updated: 2026-11-12 07:29 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)** — 88 pts, 33 comments ([discussion](https://news.ycombinator.com/item?id=50449748))
-2. **[Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)** — 37 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=50450007))
-3. **[Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)** — 436 pts, 292 comments ([discussion](https://news.ycombinator.com/item?id=50445401))
-4. **[Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)** — 850 pts, 302 comments ([discussion](https://news.ycombinator.com/item?id=50441707))
-5. **[.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)** — 768 pts, 171 comments ([discussion](https://news.ycombinator.com/item?id=50442736))
-6. **[A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)** — 104 pts, 15 comments ([discussion](https://news.ycombinator.com/item?id=50448921))
-7. **[To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)** — 56 pts, 31 comments ([discussion](https://news.ycombinator.com/item?id=50449275))
-8. **[Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)** — 208 pts, 38 comments ([discussion](https://news.ycombinator.com/item?id=50446246))
-9. **[Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)** — 155 pts, 116 comments ([discussion](https://news.ycombinator.com/item?id=50446520))
-10. **[Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)** — 360 pts, 214 comments ([discussion](https://news.ycombinator.com/item?id=50443824))
+1. **[93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)** — 367 pts, 50 comments ([discussion](https://news.ycombinator.com/item?id=50459745))
+2. **[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)** — 1098 pts, 122 comments ([discussion](https://news.ycombinator.com/item?id=50450488))
+3. **[Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)** — 138 pts, 57 comments ([discussion](https://news.ycombinator.com/item?id=50462177))
+4. **[AWS emulator](https://github.com/aws/aws-emulator)** — 798 pts, 231 comments ([discussion](https://news.ycombinator.com/item?id=50456631))
+5. **[Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)** — 33 pts, 7 comments ([discussion](https://news.ycombinator.com/item?id=50438261))
+6. **[Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)** — 888 pts, 1237 comments ([discussion](https://news.ycombinator.com/item?id=50459703))
+7. **[I gave an agent a lakehouse and control of my garden](https://jatorre.github.io/garden/)** — 16 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50415162))
+8. **[Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)** — 386 pts, 122 comments ([discussion](https://news.ycombinator.com/item?id=50456791))
+9. **[A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)** — 467 pts, 236 comments ([discussion](https://news.ycombinator.com/item?id=50455394))
+10. **[United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)** — 517 pts, 505 comments ([discussion](https://news.ycombinator.com/item?id=50458900))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** — ⭐ 6849 — `C++`  
-   A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
-2. **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** — ⭐ 5439 — `Swift`  
+1. **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** — ⭐ 6596 — `Swift`  
    An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.
-3. **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** — ⭐ 2962 — `C`  
+2. **[tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)** — ⭐ 3335 — `C`  
    No description provided.
-4. **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** — ⭐ 2477 — `C#`  
+3. **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** — ⭐ 2666 — `C#`  
    Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。
-5. **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** — ⭐ 2014 — `JavaScript`  
+4. **[JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** — ⭐ 2046 — `JavaScript`  
    No description provided.
-6. **[IainKay/ram-altman](https://github.com/IainKay/ram-altman)** — ⭐ 1842 — `Shell`  
-   Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
-7. **[jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)** — ⭐ 1772 — `Rust`  
-   the ultimate vocal synthesizer - sing, speak, beatbox, and more
-8. **[DIYgod/pinky](https://github.com/DIYgod/pinky)** — ⭐ 1764 — `Go`  
+5. **[DIYgod/pinky](https://github.com/DIYgod/pinky)** — ⭐ 1910 — `Go`  
    Let AI agents use your phone, with you in the loop.
-9. **[mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper)** — ⭐ 1674 — `Python`  
-   No description provided.
-10. **[voyager-so/vork](https://github.com/voyager-so/vork)** — ⭐ 1366 — `Rust`  
-   Headless 3D and VFX engine for agents. Research preview.
+6. **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** — ⭐ 1645 — `Swift`  
+   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
+7. **[mahmoudtawfik1998/secure-pdf-document-processor](https://github.com/mahmoudtawfik1998/secure-pdf-document-processor)** — ⭐ 1305 — `HTML`  
+   Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop
+8. **[hembramneeraj3-create/aida-64-extreme](https://github.com/hembramneeraj3-create/aida-64-extreme)** — ⭐ 1304 — `HTML`  
+   Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration
+9. **[abdulmannanmalik13-wq/adobe-substance-3d-studio](https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio)** — ⭐ 1304 — `HTML`  
+   Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer
+10. **[AleRibeiro44/archicad-desktop-setup](https://github.com/AleRibeiro44/archicad-desktop-setup)** — ⭐ 1301 — `HTML`  
+   Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
