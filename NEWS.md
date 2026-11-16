@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-15
+# 📰 Daily Tech News — 2026-11-16
 
-_Last updated: 2026-11-15 06:56 UTC_
+_Last updated: 2026-11-16 07:00 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)** — 1044 pts, 696 comments ([discussion](https://news.ycombinator.com/item?id=50500963))
-2. **[Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)** — 756 pts, 300 comments ([discussion](https://news.ycombinator.com/item?id=50499017))
-3. **[Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)** — 50 pts, 11 comments ([discussion](https://news.ycombinator.com/item?id=50478701))
-4. **[How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)** — 177 pts, 77 comments ([discussion](https://news.ycombinator.com/item?id=50501594))
-5. **[Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)** — 29 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=50504072))
-6. **[Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)** — 53 pts, 7 comments ([discussion](https://news.ycombinator.com/item?id=50502988))
-7. **[A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)** — 6 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=50443331))
-8. **[The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/)** — 32 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50482222))
-9. **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)** — 21 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50503930))
-10. **[We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)** — 183 pts, 47 comments ([discussion](https://news.ycombinator.com/item?id=50503255))
+1. **[How to make almost anything](https://pub.cba.mit.edu/863.26/site/)** — 65 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=50514470))
+2. **[Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)** — 260 pts, 67 comments ([discussion](https://news.ycombinator.com/item?id=50513160))
+3. **[Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)** — 363 pts, 121 comments ([discussion](https://news.ycombinator.com/item?id=50513215))
+4. **[Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)** — 250 pts, 133 comments ([discussion](https://news.ycombinator.com/item?id=50511395))
+5. **[What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)** — 192 pts, 252 comments ([discussion](https://news.ycombinator.com/item?id=50512235))
+6. **[Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)** — 118 pts, 28 comments ([discussion](https://news.ycombinator.com/item?id=50512441))
+7. **[Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)** — 134 pts, 37 comments ([discussion](https://news.ycombinator.com/item?id=50511806))
+8. **[Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)** — 274 pts, 52 comments ([discussion](https://news.ycombinator.com/item?id=50509837))
+9. **[The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html)** — 37 pts, 20 comments ([discussion](https://news.ycombinator.com/item?id=50479405))
+10. **[Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)** — 26 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=50514093))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[huamidev/GestaltX](https://github.com/huamidev/GestaltX)** — ⭐ 7624 — `Swift`  
-   An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
-2. **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** — ⭐ 2079 — `Swift`  
-   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
-3. **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** — ⭐ 1900 — `TypeScript`  
+1. **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** — ⭐ 3549 — `TypeScript`  
    Chat Demo
-4. **[apex-compute/ANR](https://github.com/apex-compute/ANR)** — ⭐ 1883 — `C++`  
+2. **[apex-compute/ANR](https://github.com/apex-compute/ANR)** — ⭐ 2281 — `C++`  
    Apex Neural Rendering (ANR) by Apex Compute
-5. **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** — ⭐ 1524 — `TypeScript`  
+3. **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** — ⭐ 2157 — `Swift`  
+   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)
+4. **[hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon)** — ⭐ 1819 — `Unknown`  
+   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
+5. **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** — ⭐ 1712 — `TypeScript`  
    Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
-6. **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** — ⭐ 1513 — `Python`  
+6. **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** — ⭐ 1601 — `Python`  
    Humanoid whole-body motion tracking with one differentiable world model.
-7. **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** — ⭐ 1421 — `TypeScript`  
-   Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.
-8. **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** — ⭐ 1202 — `Go`  
-   One self-hosted app for your shows, movies and music.
-9. **[DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows)** — ⭐ 1051 — `Visual Basic .NET`  
+7. **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** — ⭐ 1241 — `JavaScript`  
+   A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.
+8. **[DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows)** — ⭐ 1233 — `Visual Basic .NET`  
    Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.
-10. **[adriadam10/mkw-recomp](https://github.com/adriadam10/mkw-recomp)** — ⭐ 983 — `C`  
-   Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program
+9. **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** — ⭐ 1189 — `Python`  
+   muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
+10. **[Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner)** — ⭐ 1150 — `Kotlin`  
+   基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
