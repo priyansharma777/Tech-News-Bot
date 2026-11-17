@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-16
+# 📰 Daily Tech News — 2026-11-17
 
-_Last updated: 2026-11-16 07:00 UTC_
+_Last updated: 2026-11-17 08:16 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[How to make almost anything](https://pub.cba.mit.edu/863.26/site/)** — 65 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=50514470))
-2. **[Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)** — 260 pts, 67 comments ([discussion](https://news.ycombinator.com/item?id=50513160))
-3. **[Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)** — 363 pts, 121 comments ([discussion](https://news.ycombinator.com/item?id=50513215))
-4. **[Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)** — 250 pts, 133 comments ([discussion](https://news.ycombinator.com/item?id=50511395))
-5. **[What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)** — 192 pts, 252 comments ([discussion](https://news.ycombinator.com/item?id=50512235))
-6. **[Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)** — 118 pts, 28 comments ([discussion](https://news.ycombinator.com/item?id=50512441))
-7. **[Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)** — 134 pts, 37 comments ([discussion](https://news.ycombinator.com/item?id=50511806))
-8. **[Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)** — 274 pts, 52 comments ([discussion](https://news.ycombinator.com/item?id=50509837))
-9. **[The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html)** — 37 pts, 20 comments ([discussion](https://news.ycombinator.com/item?id=50479405))
-10. **[Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)** — 26 pts, 14 comments ([discussion](https://news.ycombinator.com/item?id=50514093))
+1. **[Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)** — 1351 pts, 189 comments ([discussion](https://news.ycombinator.com/item?id=50522980))
+2. **[Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)** — 542 pts, 382 comments ([discussion](https://news.ycombinator.com/item?id=50524736))
+3. **[BugMeNot has closed](https://www.bugmenot.com/)** — 497 pts, 223 comments ([discussion](https://news.ycombinator.com/item?id=50523601))
+4. **[Nimony: A New Compiler for Nim](https://nimony.org/)** — 22 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=50512779))
+5. **[Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)** — 297 pts, 129 comments ([discussion](https://news.ycombinator.com/item?id=50524767))
+6. **[Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)** — 11 pts, 4 comments ([discussion](https://news.ycombinator.com/item?id=50496787))
+7. **[If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)** — 105 pts, 54 comments ([discussion](https://news.ycombinator.com/item?id=50526560))
+8. **[OpenCode Browse](https://opencode.ai/product/browse)** — 225 pts, 124 comments ([discussion](https://news.ycombinator.com/item?id=50523459))
+9. **[Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)** — 97 pts, 20 comments ([discussion](https://news.ycombinator.com/item?id=50525575))
+10. **[Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)** — 208 pts, 105 comments ([discussion](https://news.ycombinator.com/item?id=50522643))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** — ⭐ 3549 — `TypeScript`  
+1. **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** — ⭐ 4299 — `TypeScript`  
    Chat Demo
-2. **[apex-compute/ANR](https://github.com/apex-compute/ANR)** — ⭐ 2281 — `C++`  
+2. **[apex-compute/ANR](https://github.com/apex-compute/ANR)** — ⭐ 2512 — `C++`  
    Apex Neural Rendering (ANR) by Apex Compute
-3. **[Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN)** — ⭐ 2157 — `Swift`  
-   iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)
-4. **[hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon)** — ⭐ 1819 — `Unknown`  
+3. **[hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon)** — ⭐ 2324 — `Unknown`  
    AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
-5. **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** — ⭐ 1712 — `TypeScript`  
-   Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
-6. **[HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic)** — ⭐ 1601 — `Python`  
-   Humanoid whole-body motion tracking with one differentiable world model.
-7. **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** — ⭐ 1241 — `JavaScript`  
+4. **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** — ⭐ 1885 — `JavaScript`  
    A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.
-8. **[DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows)** — ⭐ 1233 — `Visual Basic .NET`  
-   Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.
-9. **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** — ⭐ 1189 — `Python`  
+5. **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** — ⭐ 1518 — `Python`  
    muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
-10. **[Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner)** — ⭐ 1150 — `Kotlin`  
+6. **[Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner)** — ⭐ 1393 — `Kotlin`  
    基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块
+7. **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** — ⭐ 1266 — `TypeScript`  
+   白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送
+8. **[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)** — ⭐ 926 — `Python`  
+   Offline knowledge AI, maps and videos for survival and rebuilding
+9. **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** — ⭐ 787 — `TypeScript`  
+   The open-source Dynamic Island for React, installed with shadcn.
+10. **[AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork)** — ⭐ 747 — `TypeScript`  
+   A cross-platform Tauri 2 interface and interaction practice project
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
