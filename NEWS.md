@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-17
+# 📰 Daily Tech News — 2026-11-18
 
-_Last updated: 2026-11-17 08:16 UTC_
+_Last updated: 2026-11-18 07:48 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)** — 1351 pts, 189 comments ([discussion](https://news.ycombinator.com/item?id=50522980))
-2. **[Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)** — 542 pts, 382 comments ([discussion](https://news.ycombinator.com/item?id=50524736))
-3. **[BugMeNot has closed](https://www.bugmenot.com/)** — 497 pts, 223 comments ([discussion](https://news.ycombinator.com/item?id=50523601))
-4. **[Nimony: A New Compiler for Nim](https://nimony.org/)** — 22 pts, 6 comments ([discussion](https://news.ycombinator.com/item?id=50512779))
-5. **[Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)** — 297 pts, 129 comments ([discussion](https://news.ycombinator.com/item?id=50524767))
-6. **[Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)** — 11 pts, 4 comments ([discussion](https://news.ycombinator.com/item?id=50496787))
-7. **[If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)** — 105 pts, 54 comments ([discussion](https://news.ycombinator.com/item?id=50526560))
-8. **[OpenCode Browse](https://opencode.ai/product/browse)** — 225 pts, 124 comments ([discussion](https://news.ycombinator.com/item?id=50523459))
-9. **[Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)** — 97 pts, 20 comments ([discussion](https://news.ycombinator.com/item?id=50525575))
-10. **[Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)** — 208 pts, 105 comments ([discussion](https://news.ycombinator.com/item?id=50522643))
+1. **[Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)** — 822 pts, 215 comments ([discussion](https://news.ycombinator.com/item?id=50538240))
+2. **[GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)** — 1232 pts, 765 comments ([discussion](https://news.ycombinator.com/item?id=50535230))
+3. **[ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)** — 318 pts, 138 comments ([discussion](https://news.ycombinator.com/item?id=50540437))
+4. **[Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)** — 507 pts, 159 comments ([discussion](https://news.ycombinator.com/item?id=50538994))
+5. **[AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)** — 43 pts, 18 comments ([discussion](https://news.ycombinator.com/item?id=50542705))
+6. **[Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)** — 312 pts, 243 comments ([discussion](https://news.ycombinator.com/item?id=50540178))
+7. **[Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)** — 271 pts, 49 comments ([discussion](https://news.ycombinator.com/item?id=50542135))
+8. **[Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)** — 505 pts, 229 comments ([discussion](https://news.ycombinator.com/item?id=50534631))
+9. **[Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)** — 274 pts, 63 comments ([discussion](https://news.ycombinator.com/item?id=50539610))
+10. **[Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)** — 21 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50542264))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** — ⭐ 4299 — `TypeScript`  
+1. **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** — ⭐ 4634 — `TypeScript`  
    Chat Demo
-2. **[apex-compute/ANR](https://github.com/apex-compute/ANR)** — ⭐ 2512 — `C++`  
-   Apex Neural Rendering (ANR) by Apex Compute
-3. **[hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon)** — ⭐ 2324 — `Unknown`  
-   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
-4. **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** — ⭐ 1885 — `JavaScript`  
+2. **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** — ⭐ 3205 — `C++`  
+   Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
+3. **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** — ⭐ 2246 — `JavaScript`  
    A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.
-5. **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** — ⭐ 1518 — `Python`  
-   muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
-6. **[Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner)** — ⭐ 1393 — `Kotlin`  
-   基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块
-7. **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** — ⭐ 1266 — `TypeScript`  
-   白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送
-8. **[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)** — ⭐ 926 — `Python`  
+4. **[gylive/google-ultra](https://github.com/gylive/google-ultra)** — ⭐ 2224 — `Python`  
+   No description provided.
+5. **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** — ⭐ 1960 — `Rust`  
+   Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+6. **[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)** — ⭐ 1915 — `Python`  
    Offline knowledge AI, maps and videos for survival and rebuilding
-9. **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** — ⭐ 787 — `TypeScript`  
-   The open-source Dynamic Island for React, installed with shadcn.
-10. **[AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork)** — ⭐ 747 — `TypeScript`  
-   A cross-platform Tauri 2 interface and interaction practice project
+7. **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** — ⭐ 1608 — `Python`  
+   muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
+8. **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** — ⭐ 1502 — `TypeScript`  
+   白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送
+9. **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** — ⭐ 1161 — `JavaScript`  
+   麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
+10. **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** — ⭐ 984 — `Python`  
+   Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
