@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-18
+# 📰 Daily Tech News — 2026-11-19
 
-_Last updated: 2026-11-18 07:48 UTC_
+_Last updated: 2026-11-19 07:44 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)** — 822 pts, 215 comments ([discussion](https://news.ycombinator.com/item?id=50538240))
-2. **[GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)** — 1232 pts, 765 comments ([discussion](https://news.ycombinator.com/item?id=50535230))
-3. **[ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)** — 318 pts, 138 comments ([discussion](https://news.ycombinator.com/item?id=50540437))
-4. **[Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)** — 507 pts, 159 comments ([discussion](https://news.ycombinator.com/item?id=50538994))
-5. **[AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)** — 43 pts, 18 comments ([discussion](https://news.ycombinator.com/item?id=50542705))
-6. **[Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)** — 312 pts, 243 comments ([discussion](https://news.ycombinator.com/item?id=50540178))
-7. **[Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)** — 271 pts, 49 comments ([discussion](https://news.ycombinator.com/item?id=50542135))
-8. **[Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)** — 505 pts, 229 comments ([discussion](https://news.ycombinator.com/item?id=50534631))
-9. **[Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)** — 274 pts, 63 comments ([discussion](https://news.ycombinator.com/item?id=50539610))
-10. **[Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)** — 21 pts, 2 comments ([discussion](https://news.ycombinator.com/item?id=50542264))
+1. **[Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)** — 731 pts, 615 comments ([discussion](https://news.ycombinator.com/item?id=50552424))
+2. **[Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)** — 1309 pts, 573 comments ([discussion](https://news.ycombinator.com/item?id=50547374))
+3. **[15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)** — 41 pts, 7 comments ([discussion](https://news.ycombinator.com/item?id=50556533))
+4. **[Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)** — 209 pts, 68 comments ([discussion](https://news.ycombinator.com/item?id=50554038))
+5. **[Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)** — 518 pts, 343 comments ([discussion](https://news.ycombinator.com/item?id=50548021))
+6. **[Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)** — 162 pts, 166 comments ([discussion](https://news.ycombinator.com/item?id=50553843))
+7. **[Inside Deutsche Bank](https://www.inside-db.com/)** — 655 pts, 215 comments ([discussion](https://news.ycombinator.com/item?id=50547620))
+8. **[Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute](https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/)** — 21 pts, 0 comments ([discussion](https://news.ycombinator.com/item?id=50518303))
+9. **[LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering)** — 172 pts, 44 comments ([discussion](https://news.ycombinator.com/item?id=50553225))
+10. **[Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)** — 236 pts, 161 comments ([discussion](https://news.ycombinator.com/item?id=50550415))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** — ⭐ 4634 — `TypeScript`  
-   Chat Demo
-2. **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** — ⭐ 3205 — `C++`  
+1. **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** — ⭐ 4187 — `C++`  
    Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
-3. **[Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)** — ⭐ 2246 — `JavaScript`  
-   A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.
-4. **[gylive/google-ultra](https://github.com/gylive/google-ultra)** — ⭐ 2224 — `Python`  
-   No description provided.
-5. **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** — ⭐ 1960 — `Rust`  
+2. **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** — ⭐ 3862 — `Rust`  
    Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-6. **[Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook)** — ⭐ 1915 — `Python`  
-   Offline knowledge AI, maps and videos for survival and rebuilding
-7. **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** — ⭐ 1608 — `Python`  
+3. **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** — ⭐ 1635 — `Python`  
    muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
-8. **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** — ⭐ 1502 — `TypeScript`  
-   白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送
-9. **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** — ⭐ 1161 — `JavaScript`  
+4. **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** — ⭐ 1486 — `Python`  
+   ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。
+5. **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** — ⭐ 1451 — `JavaScript`  
    麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
-10. **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** — ⭐ 984 — `Python`  
+6. **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** — ⭐ 1163 — `Python`  
    Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
+7. **[haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)** — ⭐ 1152 — `Python`  
+   AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
+8. **[joshpuckett/allo](https://github.com/joshpuckett/allo)** — ⭐ 1069 — `Python`  
+   Allo is your friendly neighborhood typeface, free and open source
+9. **[zephyr4123/snug](https://github.com/zephyr4123/snug)** — ⭐ 1039 — `Swift`  
+   让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.
+10. **[chuanqisun/spaceship](https://github.com/chuanqisun/spaceship)** — ⭐ 880 — `HTML`  
+   Steer your ideas in realtime
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
