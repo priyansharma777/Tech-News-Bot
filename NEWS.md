@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-20
+# 📰 Daily Tech News — 2026-11-21
 
-_Last updated: 2026-11-20 07:36 UTC_
+_Last updated: 2026-11-21 07:32 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)** — 177 pts, 109 comments ([discussion](https://news.ycombinator.com/item?id=50569226))
-2. **[Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084)** — 270 pts, 62 comments ([discussion](https://news.ycombinator.com/item?id=50570479))
-3. **[Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)** — 46 pts, 27 comments ([discussion](https://news.ycombinator.com/item?id=50570628))
-4. **[FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)** — 65 pts, 15 comments ([discussion](https://news.ycombinator.com/item?id=50569998))
-5. **[Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)** — 65 pts, 8 comments ([discussion](https://news.ycombinator.com/item?id=50569516))
-6. **[Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)** — 470 pts, 220 comments ([discussion](https://news.ycombinator.com/item?id=50563148))
-7. **[Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/)** — 24 pts, 1 comments ([discussion](https://news.ycombinator.com/item?id=50521512))
-8. **[Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)** — 90 pts, 29 comments ([discussion](https://news.ycombinator.com/item?id=50568861))
-9. **[How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)** — 229 pts, 71 comments ([discussion](https://news.ycombinator.com/item?id=50528119))
-10. **[Garage Door Spam](https://blog.harrison.page/garage-door-spam/)** — 835 pts, 350 comments ([discussion](https://news.ycombinator.com/item?id=50519231))
+1. **[Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)** — 1895 pts, 872 comments ([discussion](https://news.ycombinator.com/item?id=50579568))
+2. **[Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)** — 2535 pts, 1753 comments ([discussion](https://news.ycombinator.com/item?id=50574968))
+3. **[Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)** — 901 pts, 171 comments ([discussion](https://news.ycombinator.com/item?id=50581260))
+4. **[ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)** — 24 pts, 3 comments ([discussion](https://news.ycombinator.com/item?id=50586292))
+5. **[NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)** — 219 pts, 57 comments ([discussion](https://news.ycombinator.com/item?id=50583274))
+6. **[We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)** — 388 pts, 224 comments ([discussion](https://news.ycombinator.com/item?id=50579331))
+7. **[Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)** — 54 pts, 17 comments ([discussion](https://news.ycombinator.com/item?id=50585376))
+8. **[Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)** — 408 pts, 170 comments ([discussion](https://news.ycombinator.com/item?id=50578358))
+9. **[Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)** — 108 pts, 39 comments ([discussion](https://news.ycombinator.com/item?id=50534387))
+10. **[Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)** — 87 pts, 17 comments ([discussion](https://news.ycombinator.com/item?id=50583768))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** — ⭐ 5635 — `Rust`  
+1. **[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)** — ⭐ 6868 — `Rust`  
    Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
-2. **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** — ⭐ 4794 — `C++`  
+2. **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** — ⭐ 5452 — `C++`  
    Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.
-3. **[gylive/google-ultra](https://github.com/gylive/google-ultra)** — ⭐ 2484 — `Python`  
+3. **[gylive/google-ultra](https://github.com/gylive/google-ultra)** — ⭐ 2552 — `Python`  
    No description provided.
-4. **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** — ⭐ 1853 — `Python`  
+4. **[Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool)** — ⭐ 2092 — `Python`  
    ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。
-5. **[duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol)** — ⭐ 1670 — `Python`  
-   muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）
-6. **[CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian)** — ⭐ 1647 — `JavaScript`  
-   麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏
-7. **[haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)** — ⭐ 1398 — `Python`  
-   AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
-8. **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** — ⭐ 1277 — `Python`  
+5. **[bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon)** — ⭐ 1866 — `Unknown`  
+   AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.
+6. **[sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)** — ⭐ 1382 — `Python`  
    Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
-9. **[sourmitocand1987/VividFrame-GPU](https://github.com/sourmitocand1987/VividFrame-GPU)** — ⭐ 1223 — `Unknown`  
-   Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streaming · moonlight · dolby-vision · frame-interpolation · video-player · media-player · video-super-resolution · video-processing · upscaling · rife · vulkan · nvidia · windows · video-enhancement · ncnn
-10. **[bothaggsigym1988/frameglide](https://github.com/bothaggsigym1988/frameglide)** — ⭐ 1176 — `Unknown`  
-   From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dlss · super-resolution · vulkan · dlss5 · upscaling · rife · neural-rendering · ps5 · rtx · remote-play · pytorch · video · chiaki · optical-flow · video-frame-interpolation · amd · tensorrt · fsr · rtx-vsr · video-upscaling
+7. **[iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)** — ⭐ 1378 — `Python`  
+   Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).
+8. **[joshpuckett/allo](https://github.com/joshpuckett/allo)** — ⭐ 1265 — `Python`  
+   Allo is your friendly neighborhood typeface, free and open source
+9. **[chuanqisun/spaceship](https://github.com/chuanqisun/spaceship)** — ⭐ 997 — `HTML`  
+   Steer ideas like a space pilot!
+10. **[siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio)** — ⭐ 892 — `JavaScript`  
+   Sculpting, animation and simulation toolkit for pixel-art Gaussian splats
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
