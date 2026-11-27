@@ -1,42 +1,42 @@
-# 📰 Daily Tech News — 2026-11-26
+# 📰 Daily Tech News — 2026-11-27
 
-_Last updated: 2026-11-26 08:43 UTC_
+_Last updated: 2026-11-27 08:54 UTC_
 
 ## 🔥 Hacker News — Top Stories
 
-1. **[Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)** — 1442 pts, 1255 comments ([discussion](https://news.ycombinator.com/item?id=50646108))
-2. **[1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)** — 1391 pts, 587 comments ([discussion](https://news.ycombinator.com/item?id=50644817))
-3. **[Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)** — 72 pts, 9 comments ([discussion](https://news.ycombinator.com/item?id=50651719))
-4. **[Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)** — 438 pts, 223 comments ([discussion](https://news.ycombinator.com/item?id=50648050))
-5. **[Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)** — 23 pts, 15 comments ([discussion](https://news.ycombinator.com/item?id=50652184))
-6. **[The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)** — 355 pts, 302 comments ([discussion](https://news.ycombinator.com/item?id=50647673))
-7. **[Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)** — 107 pts, 16 comments ([discussion](https://news.ycombinator.com/item?id=50650892))
-8. **[Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)** — 150 pts, 16 comments ([discussion](https://news.ycombinator.com/item?id=50649834))
-9. **[Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)** — 249 pts, 91 comments ([discussion](https://news.ycombinator.com/item?id=50649864))
-10. **[Show HN: Synth Patch Hero](https://swarkentin.github.io/synth-patch-hero/)** — 28 pts, 7 comments ([discussion](https://news.ycombinator.com/item?id=50623232))
+1. **[The group chat where your AI talks behind your back](https://construct22.com/)** — 156 pts, 55 comments ([discussion](https://news.ycombinator.com/item?id=50663595))
+2. **[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)** — 634 pts, 327 comments ([discussion](https://news.ycombinator.com/item?id=50660180))
+3. **[The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)** — 132 pts, 103 comments ([discussion](https://news.ycombinator.com/item?id=50663089))
+4. **[YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)** — 381 pts, 449 comments ([discussion](https://news.ycombinator.com/item?id=50657530))
+5. **[Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)** — 356 pts, 90 comments ([discussion](https://news.ycombinator.com/item?id=50659841))
+6. **[Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)** — 326 pts, 227 comments ([discussion](https://news.ycombinator.com/item?id=50661646))
+7. **[AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)** — 346 pts, 83 comments ([discussion](https://news.ycombinator.com/item?id=50657265))
+8. **[CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)** — 259 pts, 134 comments ([discussion](https://news.ycombinator.com/item?id=50657645))
+9. **[Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)** — 316 pts, 133 comments ([discussion](https://news.ycombinator.com/item?id=50659640))
+10. **[Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)** — 517 pts, 250 comments ([discussion](https://news.ycombinator.com/item?id=50653667))
 
 ## ⭐ Trending GitHub Repositories (last 7 days)
 
-1. **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** — ⭐ 12834 — `Rust`  
+1. **[Marvisak/VIctory](https://github.com/Marvisak/VIctory)** — ⭐ 13547 — `Rust`  
    An attempt at running GTA VI on PC
-2. **[xcl-dev/xcl](https://github.com/xcl-dev/xcl)** — ⭐ 8396 — `Rust`  
-   Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
-3. **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** — ⭐ 4646 — `JavaScript`  
+2. **[4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)** — ⭐ 6142 — `JavaScript`  
    Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
-4. **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** — ⭐ 4069 — `Rust`  
+3. **[EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)** — ⭐ 4337 — `Rust`  
    Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
-5. **[AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)** — ⭐ 4063 — `C`  
-   XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
-6. **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** — ⭐ 3164 — `Rust`  
+4. **[Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD)** — ⭐ 3614 — `Rust`  
+   No description provided.
+5. **[fxceless/victory-fork](https://github.com/fxceless/victory-fork)** — ⭐ 3309 — `Rust`  
    Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
-7. **[ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)** — ⭐ 2396 — `Python`  
+6. **[ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)** — ⭐ 2568 — `Python`  
    A continuation of Leonida, the Xbox > PC port interface for GTA VI
-8. **[R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** — ⭐ 1960 — `Python`  
-   Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
-9. **[os6/nospeaker](https://github.com/os6/nospeaker)** — ⭐ 1912 — `Swift`  
+7. **[os6/nospeaker](https://github.com/os6/nospeaker)** — ⭐ 1968 — `Swift`  
    make your macbook's trackpad talk using its haptic motor
-10. **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** — ⭐ 1849 — `Rust`  
+8. **[avatarmanz/VIctory-7900XTX](https://github.com/avatarmanz/VIctory-7900XTX)** — ⭐ 1886 — `Rust`  
+   Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.
+9. **[omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator)** — ⭐ 1853 — `Rust`  
    Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)
+10. **[alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)** — ⭐ 1778 — `Assembly`  
+   Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.
 
 ---
 _Generated automatically by [Automated Daily Tech News](.github/workflows/daily_news.yml)._
